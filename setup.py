@@ -21,7 +21,7 @@ setup(
     zip_safe=False,
     install_requires=[
         "requests",
-        "BeautifulSoup",
+        "beautifulsoup4",
     ],
     test_suite="nose.collector",
     tests_require=["nose"],

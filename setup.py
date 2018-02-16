@@ -20,6 +20,7 @@ setup(
     packages=["siris"],
     zip_safe=False,
     install_requires=[
+        "statscraper",
         "requests",
         "beautifulsoup4",
     ],

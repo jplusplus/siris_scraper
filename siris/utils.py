@@ -99,4 +99,4 @@ def parse_value(val):
     elif val == "..":
         return None, "too few"
     else:
-        return float(val.replace(" ", "")), None
+        return float(val.replace(",",".").replace(" ", "")), None

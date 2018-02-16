@@ -35,3 +35,8 @@ class TestSirisScraper(TestCase):
         dataset = verksamhet.items[0]
         assert isinstance(dataset.periods, list)
         assert len(dataset.periods) > 0
+
+        verksamhet = collections.get_by_label(u"Grundskolan")
+        dataset = verksamhet.items["101"]
+        assert isinstance(dataset.periods, list)
+        assert len(dataset.periods) > 0

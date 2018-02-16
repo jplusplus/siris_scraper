@@ -18,3 +18,9 @@ class TestSirisQuerying(TestCase):
 
         res = dataset.fetch({"period": ["2015", "2016"]})
         assert len(res.list_of_dicts) == 290 * 2
+
+    def test_query_grundskolan(self):
+        dataset = self.scraper.items.get_by_label(u"Grundskolan")\
+                              .items["101"]
+        res = dataset.fetch()
+        assert len(res.list_of_dicts) > 0

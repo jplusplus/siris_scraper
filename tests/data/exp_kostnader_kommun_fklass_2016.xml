@@ -1,0 +1,2340 @@
+<?xml version="1.0"?>
+<root>
+<rubrik>F&#246;rskoleklass - Kostnader per kommun</rubrik>
+<inledning>Valt &#229;r: 2016
+Endast kommunal huvudman</inledning>
+<skola kommun_namn="Ale" kommunkod="1440" huvudman="Kommunal">
+<antal_elever>384</antal_elever>
+<totalt>22 062</totalt>
+<undervisning>15 450</undervisning>
+<totalt_elev>57 500</totalt_elev>
+<undervisning_elev>40 200</undervisning_elev>
+<lokaler_elev>11 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Alings&#229;s" kommunkod="1489" huvudman="Kommunal">
+<antal_elever>471</antal_elever>
+<totalt>25 288</totalt>
+<undervisning>17 225</undervisning>
+<totalt_elev>53 700</totalt_elev>
+<undervisning_elev>36 600</undervisning_elev>
+<lokaler_elev>6 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Alvesta" kommunkod="0764" huvudman="Kommunal">
+<antal_elever>247</antal_elever>
+<totalt>11 095</totalt>
+<undervisning>7 916</undervisning>
+<totalt_elev>45 000</totalt_elev>
+<undervisning_elev>32 100</undervisning_elev>
+<lokaler_elev>9 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Aneby" kommunkod="0604" huvudman="Kommunal">
+<antal_elever>71</antal_elever>
+<totalt>3 939</totalt>
+<undervisning>2 701</undervisning>
+<totalt_elev>55 500</totalt_elev>
+<undervisning_elev>38 000</undervisning_elev>
+<lokaler_elev>5 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Arboga" kommunkod="1984" huvudman="Kommunal">
+<antal_elever>143</antal_elever>
+<totalt>9 512</totalt>
+<undervisning>6 267</undervisning>
+<totalt_elev>66 500</totalt_elev>
+<undervisning_elev>43 800</undervisning_elev>
+<lokaler_elev>5 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Arjeplog" kommunkod="2506" huvudman="Kommunal">
+<antal_elever>25</antal_elever>
+<totalt>1 783</totalt>
+<undervisning>1 289</undervisning>
+<totalt_elev>72 800</totalt_elev>
+<undervisning_elev>52 600</undervisning_elev>
+<lokaler_elev>2 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Arvidsjaur" kommunkod="2505" huvudman="Kommunal">
+<antal_elever>60</antal_elever>
+<totalt>3 666</totalt>
+<undervisning>3 378</undervisning>
+<totalt_elev>61 600</totalt_elev>
+<undervisning_elev>56 800</undervisning_elev>
+<lokaler_elev>3 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Arvika" kommunkod="1784" huvudman="Kommunal">
+<antal_elever>265</antal_elever>
+<totalt>15 757</totalt>
+<undervisning>6 646</undervisning>
+<totalt_elev>59 600</totalt_elev>
+<undervisning_elev>25 100</undervisning_elev>
+<lokaler_elev>11 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Askersund" kommunkod="1882" huvudman="Kommunal">
+<antal_elever>120</antal_elever>
+<totalt>11 023</totalt>
+<undervisning>6 878</undervisning>
+<totalt_elev>91 900</totalt_elev>
+<undervisning_elev>57 300</undervisning_elev>
+<lokaler_elev>12 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Avesta" kommunkod="2084" huvudman="Kommunal">
+<antal_elever>228</antal_elever>
+<totalt>11 129</totalt>
+<undervisning>7 631</undervisning>
+<totalt_elev>48 800</totalt_elev>
+<undervisning_elev>33 500</undervisning_elev>
+<lokaler_elev>8 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Bengtsfors" kommunkod="1460" huvudman="Kommunal">
+<antal_elever>100</antal_elever>
+<totalt>5 425</totalt>
+<undervisning>4 383</undervisning>
+<totalt_elev>54 300</totalt_elev>
+<undervisning_elev>43 800</undervisning_elev>
+<lokaler_elev>12 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Berg" kommunkod="2326" huvudman="Kommunal">
+<antal_elever>68</antal_elever>
+<totalt>4 104</totalt>
+<undervisning>2 685</undervisning>
+<totalt_elev>60 800</totalt_elev>
+<undervisning_elev>39 800</undervisning_elev>
+<lokaler_elev>5 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Bjurholm" kommunkod="2403" huvudman="Kommunal">
+<antal_elever>31</antal_elever>
+<totalt>1 065</totalt>
+<undervisning>838</undervisning>
+<totalt_elev>34 900</totalt_elev>
+<undervisning_elev>27 500</undervisning_elev>
+<lokaler_elev>4 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Bjuv" kommunkod="1260" huvudman="Kommunal">
+<antal_elever>190</antal_elever>
+<totalt>14 238</totalt>
+<undervisning>9 537</undervisning>
+<totalt_elev>75 100</totalt_elev>
+<undervisning_elev>50 300</undervisning_elev>
+<lokaler_elev>9 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Boden" kommunkod="2582" huvudman="Kommunal">
+<antal_elever>233</antal_elever>
+<totalt>17 751</totalt>
+<undervisning>10 520</undervisning>
+<totalt_elev>76 200</totalt_elev>
+<undervisning_elev>45 200</undervisning_elev>
+<lokaler_elev>10 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Bollebygd" kommunkod="1443" huvudman="Kommunal">
+<antal_elever>106</antal_elever>
+<totalt>4 125</totalt>
+<undervisning>3 086</undervisning>
+<totalt_elev>38 900</totalt_elev>
+<undervisning_elev>29 100</undervisning_elev>
+<lokaler_elev>16 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Bolln&#228;s" kommunkod="2183" huvudman="Kommunal">
+<antal_elever>252</antal_elever>
+<totalt>17 207</totalt>
+<undervisning>12 336</undervisning>
+<totalt_elev>68 400</totalt_elev>
+<undervisning_elev>49 000</undervisning_elev>
+<lokaler_elev>10 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Borgholm" kommunkod="0885" huvudman="Kommunal">
+<antal_elever>95</antal_elever>
+<totalt>11 432</totalt>
+<undervisning>6 158</undervisning>
+<totalt_elev>120 300</totalt_elev>
+<undervisning_elev>64 800</undervisning_elev>
+<lokaler_elev>16 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Borl&#228;nge" kommunkod="2081" huvudman="Kommunal">
+<antal_elever>586</antal_elever>
+<totalt>35 727</totalt>
+<undervisning>25 129</undervisning>
+<totalt_elev>61 000</totalt_elev>
+<undervisning_elev>42 900</undervisning_elev>
+<lokaler_elev>6 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Bor&#229;s" kommunkod="1490" huvudman="Kommunal">
+<antal_elever>1 259</antal_elever>
+<totalt>57 539</totalt>
+<undervisning>35 379</undervisning>
+<totalt_elev>45 700</totalt_elev>
+<undervisning_elev>28 100</undervisning_elev>
+<lokaler_elev>9 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Botkyrka" kommunkod="0127" huvudman="Kommunal">
+<antal_elever>1 075</antal_elever>
+<totalt>86 482</totalt>
+<undervisning>52 060</undervisning>
+<totalt_elev>80 500</totalt_elev>
+<undervisning_elev>48 500</undervisning_elev>
+<lokaler_elev>18 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Boxholm" kommunkod="0560" huvudman="Kommunal">
+<antal_elever>58</antal_elever>
+<totalt>4 662</totalt>
+<undervisning>2 780</undervisning>
+<totalt_elev>80 400</totalt_elev>
+<undervisning_elev>47 900</undervisning_elev>
+<lokaler_elev>18 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Brom&#246;lla" kommunkod="1272" huvudman="Kommunal">
+<antal_elever>152</antal_elever>
+<totalt>8 907</totalt>
+<undervisning>6 421</undervisning>
+<totalt_elev>58 800</totalt_elev>
+<undervisning_elev>42 400</undervisning_elev>
+<lokaler_elev>5 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Br&#228;cke" kommunkod="2305" huvudman="Kommunal">
+<antal_elever>58</antal_elever>
+<totalt>5 091</totalt>
+<undervisning>3 725</undervisning>
+<totalt_elev>88 500</totalt_elev>
+<undervisning_elev>64 800</undervisning_elev>
+<lokaler_elev>5 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Burl&#246;v" kommunkod="1231" huvudman="Kommunal">
+<antal_elever>232</antal_elever>
+<totalt>13 347</totalt>
+<undervisning>7 772</undervisning>
+<totalt_elev>57 500</totalt_elev>
+<undervisning_elev>33 500</undervisning_elev>
+<lokaler_elev>10 500</lokaler_elev>
+</skola>
+<skola kommun_namn="B&#229;stad" kommunkod="1278" huvudman="Kommunal">
+<antal_elever>128</antal_elever>
+<totalt>6 134</totalt>
+<undervisning>4 716</undervisning>
+<totalt_elev>48 100</totalt_elev>
+<undervisning_elev>37 000</undervisning_elev>
+<lokaler_elev>1 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Dals-Ed" kommunkod="1438" huvudman="Kommunal">
+<antal_elever>55</antal_elever>
+<totalt>2 735</totalt>
+<undervisning>1 873</undervisning>
+<totalt_elev>49 700</totalt_elev>
+<undervisning_elev>34 100</undervisning_elev>
+<lokaler_elev>6 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Danderyd" kommunkod="0162" huvudman="Kommunal">
+<antal_elever>409</antal_elever>
+<totalt>17 658</totalt>
+<undervisning>12 573</undervisning>
+<totalt_elev>43 200</totalt_elev>
+<undervisning_elev>30 800</undervisning_elev>
+<lokaler_elev>6 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Degerfors" kommunkod="1862" huvudman="Kommunal">
+<antal_elever>82</antal_elever>
+<totalt>3 567</totalt>
+<undervisning>2 683</undervisning>
+<totalt_elev>43 800</totalt_elev>
+<undervisning_elev>32 900</undervisning_elev>
+<lokaler_elev>9 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Dorotea" kommunkod="2425" huvudman="Kommunal">
+<antal_elever>35</antal_elever>
+<totalt>985</totalt>
+<undervisning>935</undervisning>
+<totalt_elev>28 100</totalt_elev>
+<undervisning_elev>26 700</undervisning_elev>
+<lokaler_elev>13 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Eda" kommunkod="1730" huvudman="Kommunal">
+<antal_elever>87</antal_elever>
+<totalt>5 477</totalt>
+<undervisning>3 304</undervisning>
+<totalt_elev>63 000</totalt_elev>
+<undervisning_elev>38 000</undervisning_elev>
+<lokaler_elev>12 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Eker&#246;" kommunkod="0125" huvudman="Kommunal">
+<antal_elever>386</antal_elever>
+<totalt>12 664</totalt>
+<undervisning>8 656</undervisning>
+<totalt_elev>32 800</totalt_elev>
+<undervisning_elev>22 400</undervisning_elev>
+<lokaler_elev>5 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Eksj&#246;" kommunkod="0686" huvudman="Kommunal">
+<antal_elever>180</antal_elever>
+<totalt>13 291</totalt>
+<undervisning>8 554</undervisning>
+<totalt_elev>74 000</totalt_elev>
+<undervisning_elev>47 700</undervisning_elev>
+<lokaler_elev>9 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Emmaboda" kommunkod="0862" huvudman="Kommunal">
+<antal_elever>78</antal_elever>
+<totalt>5 174</totalt>
+<undervisning>4 229</undervisning>
+<totalt_elev>66 300</totalt_elev>
+<undervisning_elev>54 200</undervisning_elev>
+<lokaler_elev>700</lokaler_elev>
+</skola>
+<skola kommun_namn="Enk&#246;ping" kommunkod="0381" huvudman="Kommunal">
+<antal_elever>435</antal_elever>
+<totalt>24 057</totalt>
+<undervisning>15 585</undervisning>
+<totalt_elev>55 400</totalt_elev>
+<undervisning_elev>35 900</undervisning_elev>
+<lokaler_elev>8 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Eskilstuna" kommunkod="0484" huvudman="Kommunal">
+<antal_elever>1 146</antal_elever>
+<totalt>44 205</totalt>
+<undervisning>30 146</undervisning>
+<totalt_elev>38 600</totalt_elev>
+<undervisning_elev>26 300</undervisning_elev>
+<lokaler_elev>7 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Esl&#246;v" kommunkod="1285" huvudman="Kommunal">
+<antal_elever>400</antal_elever>
+<totalt>20 354</totalt>
+<undervisning>13 084</undervisning>
+<totalt_elev>50 900</totalt_elev>
+<undervisning_elev>32 800</undervisning_elev>
+<lokaler_elev>10 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Essunga" kommunkod="1445" huvudman="Kommunal">
+<antal_elever>65</antal_elever>
+<totalt>2 944</totalt>
+<undervisning>2 200</undervisning>
+<totalt_elev>45 300</totalt_elev>
+<undervisning_elev>33 800</undervisning_elev>
+<lokaler_elev>2 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Fagersta" kommunkod="1982" huvudman="Kommunal">
+<antal_elever>154</antal_elever>
+<totalt>8 524</totalt>
+<undervisning>5 741</undervisning>
+<totalt_elev>55 500</totalt_elev>
+<undervisning_elev>37 400</undervisning_elev>
+<lokaler_elev>14 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Falkenberg" kommunkod="1382" huvudman="Kommunal">
+<antal_elever>493</antal_elever>
+<totalt>41 430</totalt>
+<undervisning>26 992</undervisning>
+<totalt_elev>84 100</totalt_elev>
+<undervisning_elev>54 800</undervisning_elev>
+<lokaler_elev>8 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Falk&#246;ping" kommunkod="1499" huvudman="Kommunal">
+<antal_elever>390</antal_elever>
+<totalt>19 886</totalt>
+<undervisning>15 548</undervisning>
+<totalt_elev>51 100</totalt_elev>
+<undervisning_elev>39 900</undervisning_elev>
+<lokaler_elev>3 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Falun" kommunkod="2080" huvudman="Kommunal">
+<antal_elever>619</antal_elever>
+<totalt>28 122</totalt>
+<undervisning>15 689</undervisning>
+<totalt_elev>45 500</totalt_elev>
+<undervisning_elev>25 400</undervisning_elev>
+<lokaler_elev>9 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Filipstad" kommunkod="1782" huvudman="Kommunal">
+<antal_elever>93</antal_elever>
+<totalt>6 849</totalt>
+<undervisning>5 427</undervisning>
+<totalt_elev>73 600</totalt_elev>
+<undervisning_elev>58 400</undervisning_elev>
+<lokaler_elev>9 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Finsp&#229;ng" kommunkod="0562" huvudman="Kommunal">
+<antal_elever>243</antal_elever>
+<totalt>14 666</totalt>
+<undervisning>8 944</undervisning>
+<totalt_elev>60 500</totalt_elev>
+<undervisning_elev>36 900</undervisning_elev>
+<lokaler_elev>10 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Flen" kommunkod="0482" huvudman="Kommunal">
+<antal_elever>170</antal_elever>
+<totalt>11 166</totalt>
+<undervisning>7 168</undervisning>
+<totalt_elev>65 700</totalt_elev>
+<undervisning_elev>42 200</undervisning_elev>
+<lokaler_elev>13 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Forshaga" kommunkod="1763" huvudman="Kommunal">
+<antal_elever>138</antal_elever>
+<totalt>9 655</totalt>
+<undervisning>6 946</undervisning>
+<totalt_elev>70 200</totalt_elev>
+<undervisning_elev>50 500</undervisning_elev>
+<lokaler_elev>4 700</lokaler_elev>
+</skola>
+<skola kommun_namn="F&#228;rgelanda" kommunkod="1439" huvudman="Kommunal">
+<antal_elever>62</antal_elever>
+<totalt>2 907</totalt>
+<undervisning>1 843</undervisning>
+<totalt_elev>46 900</totalt_elev>
+<undervisning_elev>29 700</undervisning_elev>
+<lokaler_elev>4 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Gagnef" kommunkod="2026" huvudman="Kommunal">
+<antal_elever>118</antal_elever>
+<totalt>4 913</totalt>
+<undervisning>4 497</undervisning>
+<totalt_elev>41 800</totalt_elev>
+<undervisning_elev>38 300</undervisning_elev>
+<lokaler_elev>1 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Gislaved" kommunkod="0662" huvudman="Kommunal">
+<antal_elever>349</antal_elever>
+<totalt>23 603</totalt>
+<undervisning>15 077</undervisning>
+<totalt_elev>67 600</totalt_elev>
+<undervisning_elev>43 200</undervisning_elev>
+<lokaler_elev>13 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Gnesta" kommunkod="0461" huvudman="Kommunal">
+<antal_elever>121</antal_elever>
+<totalt>3 375</totalt>
+<undervisning>4 726</undervisning>
+<totalt_elev>28 000</totalt_elev>
+<undervisning_elev>39 200</undervisning_elev>
+<lokaler_elev>12 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Gnosj&#246;" kommunkod="0617" huvudman="Kommunal">
+<antal_elever>112</antal_elever>
+<totalt>5 665</totalt>
+<undervisning>4 269</undervisning>
+<totalt_elev>50 600</totalt_elev>
+<undervisning_elev>38 100</undervisning_elev>
+<lokaler_elev>7 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Gotland" kommunkod="0980" huvudman="Kommunal">
+<antal_elever>567</antal_elever>
+<totalt>47 047</totalt>
+<undervisning>33 912</undervisning>
+<totalt_elev>83 000</totalt_elev>
+<undervisning_elev>59 800</undervisning_elev>
+<lokaler_elev>8 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Grums" kommunkod="1764" huvudman="Kommunal">
+<antal_elever>91</antal_elever>
+<totalt>6 042</totalt>
+<undervisning>2 587</undervisning>
+<totalt_elev>66 800</totalt_elev>
+<undervisning_elev>28 600</undervisning_elev>
+<lokaler_elev>7 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Gr&#228;storp" kommunkod="1444" huvudman="Kommunal">
+<antal_elever>61</antal_elever>
+<totalt>4 297</totalt>
+<undervisning>2 611</undervisning>
+<totalt_elev>70 400</totalt_elev>
+<undervisning_elev>42 800</undervisning_elev>
+<lokaler_elev>12 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Gullsp&#229;ng" kommunkod="1447" huvudman="Kommunal">
+<antal_elever>43</antal_elever>
+<totalt>3 960</totalt>
+<undervisning>2 226</undervisning>
+<totalt_elev>92 100</totalt_elev>
+<undervisning_elev>51 800</undervisning_elev>
+<lokaler_elev>14 300</lokaler_elev>
+</skola>
+<skola kommun_namn="G&#228;llivare" kommunkod="2523" huvudman="Kommunal">
+<antal_elever>160</antal_elever>
+<totalt>14 810</totalt>
+<undervisning>10 720</undervisning>
+<totalt_elev>92 600</totalt_elev>
+<undervisning_elev>67 000</undervisning_elev>
+<lokaler_elev>12 300</lokaler_elev>
+</skola>
+<skola kommun_namn="G&#228;vle" kommunkod="2180" huvudman="Kommunal">
+<antal_elever>1 106</antal_elever>
+<totalt>45 537</totalt>
+<undervisning>31 780</undervisning>
+<totalt_elev>41 200</totalt_elev>
+<undervisning_elev>28 700</undervisning_elev>
+<lokaler_elev>5 900</lokaler_elev>
+</skola>
+<skola kommun_namn="G&#246;teborg" kommunkod="1480" huvudman="Kommunal">
+<antal_elever>5 387</antal_elever>
+<totalt>245 284</totalt>
+<undervisning>153 475</undervisning>
+<totalt_elev>45 500</totalt_elev>
+<undervisning_elev>28 500</undervisning_elev>
+<lokaler_elev>8 400</lokaler_elev>
+</skola>
+<skola kommun_namn="G&#246;tene" kommunkod="1471" huvudman="Kommunal">
+<antal_elever>177</antal_elever>
+<totalt>9 337</totalt>
+<undervisning>5 652</undervisning>
+<totalt_elev>52 800</totalt_elev>
+<undervisning_elev>31 900</undervisning_elev>
+<lokaler_elev>8 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Habo" kommunkod="0643" huvudman="Kommunal">
+<antal_elever>184</antal_elever>
+<totalt>10 800</totalt>
+<undervisning>7 084</undervisning>
+<totalt_elev>58 900</totalt_elev>
+<undervisning_elev>38 600</undervisning_elev>
+<lokaler_elev>11 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Hagfors" kommunkod="1783" huvudman="Kommunal">
+<antal_elever>98</antal_elever>
+<totalt>9 724</totalt>
+<undervisning>5 096</undervisning>
+<totalt_elev>99 700</totalt_elev>
+<undervisning_elev>52 300</undervisning_elev>
+<lokaler_elev>16 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Hallsberg" kommunkod="1861" huvudman="Kommunal">
+<antal_elever>184</antal_elever>
+<totalt>11 233</totalt>
+<undervisning>7 277</undervisning>
+<totalt_elev>61 200</totalt_elev>
+<undervisning_elev>39 700</undervisning_elev>
+<lokaler_elev>9 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Hallstahammar" kommunkod="1961" huvudman="Kommunal">
+<antal_elever>205</antal_elever>
+<totalt>9 300</totalt>
+<undervisning>7 212</undervisning>
+<totalt_elev>45 400</totalt_elev>
+<undervisning_elev>35 200</undervisning_elev>
+<lokaler_elev>7 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Halmstad" kommunkod="1380" huvudman="Kommunal">
+<antal_elever>1 111</antal_elever>
+<totalt>68 012</totalt>
+<undervisning>37 429</undervisning>
+<totalt_elev>61 200</totalt_elev>
+<undervisning_elev>33 700</undervisning_elev>
+<lokaler_elev>16 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Hammar&#246;" kommunkod="1761" huvudman="Kommunal">
+<antal_elever>238</antal_elever>
+<totalt>10 954</totalt>
+<undervisning>7 446</undervisning>
+<totalt_elev>46 000</totalt_elev>
+<undervisning_elev>31 300</undervisning_elev>
+<lokaler_elev>12 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Haninge" kommunkod="0136" huvudman="Kommunal">
+<antal_elever>950</antal_elever>
+<totalt>62 371</totalt>
+<undervisning>40 094</undervisning>
+<totalt_elev>65 700</totalt_elev>
+<undervisning_elev>42 200</undervisning_elev>
+<lokaler_elev>10 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Haparanda" kommunkod="2583" huvudman="Kommunal">
+<antal_elever>93</antal_elever>
+<totalt>7 620</totalt>
+<undervisning>6 507</undervisning>
+<totalt_elev>82 400</totalt_elev>
+<undervisning_elev>70 300</undervisning_elev>
+<lokaler_elev>8 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Heby" kommunkod="0331" huvudman="Kommunal">
+<antal_elever>147</antal_elever>
+<totalt>9 148</totalt>
+<undervisning>5 794</undervisning>
+<totalt_elev>62 400</totalt_elev>
+<undervisning_elev>39 500</undervisning_elev>
+<lokaler_elev>8 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Hedemora" kommunkod="2083" huvudman="Kommunal">
+<antal_elever>142</antal_elever>
+<totalt>7 817</totalt>
+<undervisning>4 965</undervisning>
+<totalt_elev>55 000</totalt_elev>
+<undervisning_elev>35 000</undervisning_elev>
+<lokaler_elev>13 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Helsingborg" kommunkod="1283" huvudman="Kommunal">
+<antal_elever>1 388</antal_elever>
+<totalt>85 921</totalt>
+<undervisning>60 002</undervisning>
+<totalt_elev>61 900</totalt_elev>
+<undervisning_elev>43 200</undervisning_elev>
+<lokaler_elev>9 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Herrljunga" kommunkod="1466" huvudman="Kommunal">
+<antal_elever>105</antal_elever>
+<totalt>8 794</totalt>
+<undervisning>6 360</undervisning>
+<totalt_elev>84 200</totalt_elev>
+<undervisning_elev>60 900</undervisning_elev>
+<lokaler_elev>16 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Hjo" kommunkod="1497" huvudman="Kommunal">
+<antal_elever>110</antal_elever>
+<totalt>7 180</totalt>
+<undervisning>5 411</undervisning>
+<totalt_elev>65 300</totalt_elev>
+<undervisning_elev>49 200</undervisning_elev>
+<lokaler_elev>15 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Hofors" kommunkod="2104" huvudman="Kommunal">
+<antal_elever>99</antal_elever>
+<totalt>6 075</totalt>
+<undervisning>4 850</undervisning>
+<totalt_elev>61 700</totalt_elev>
+<undervisning_elev>49 200</undervisning_elev>
+<lokaler_elev>5 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Huddinge" kommunkod="0126" huvudman="Kommunal">
+<antal_elever>1 378</antal_elever>
+<totalt>93 883</totalt>
+<undervisning>62 128</undervisning>
+<totalt_elev>68 200</totalt_elev>
+<undervisning_elev>45 100</undervisning_elev>
+<lokaler_elev>11 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Hudiksvall" kommunkod="2184" huvudman="Kommunal">
+<antal_elever>380</antal_elever>
+<totalt>17 842</totalt>
+<undervisning>14 749</undervisning>
+<totalt_elev>47 000</totalt_elev>
+<undervisning_elev>38 800</undervisning_elev>
+<lokaler_elev>2 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Hultsfred" kommunkod="0860" huvudman="Kommunal">
+<antal_elever>136</antal_elever>
+<totalt>9 427</totalt>
+<undervisning>6 037</undervisning>
+<totalt_elev>69 600</totalt_elev>
+<undervisning_elev>44 600</undervisning_elev>
+<lokaler_elev>8 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Hylte" kommunkod="1315" huvudman="Kommunal">
+<antal_elever>133</antal_elever>
+<totalt>6 379</totalt>
+<undervisning>4 607</undervisning>
+<totalt_elev>48 000</totalt_elev>
+<undervisning_elev>34 600</undervisning_elev>
+<lokaler_elev>3 200</lokaler_elev>
+</skola>
+<skola kommun_namn="H&#229;bo" kommunkod="0305" huvudman="Kommunal">
+<antal_elever>230</antal_elever>
+<totalt>13 250</totalt>
+<undervisning>9 342</undervisning>
+<totalt_elev>57 600</totalt_elev>
+<undervisning_elev>40 600</undervisning_elev>
+<lokaler_elev>11 900</lokaler_elev>
+</skola>
+<skola kommun_namn="H&#228;llefors" kommunkod="1863" huvudman="Kommunal">
+<antal_elever>73</antal_elever>
+<totalt>3 831</totalt>
+<undervisning>1 980</undervisning>
+<totalt_elev>52 800</totalt_elev>
+<undervisning_elev>27 300</undervisning_elev>
+<lokaler_elev>11 900</lokaler_elev>
+</skola>
+<skola kommun_namn="H&#228;rjedalen" kommunkod="2361" huvudman="Kommunal">
+<antal_elever>86</antal_elever>
+<totalt>7 891</totalt>
+<undervisning>4 532</undervisning>
+<totalt_elev>92 300</totalt_elev>
+<undervisning_elev>53 000</undervisning_elev>
+<lokaler_elev>21 100</lokaler_elev>
+</skola>
+<skola kommun_namn="H&#228;rn&#246;sand" kommunkod="2280" huvudman="Kommunal">
+<antal_elever>281</antal_elever>
+<totalt>19 269</totalt>
+<undervisning>12 087</undervisning>
+<totalt_elev>68 600</totalt_elev>
+<undervisning_elev>43 000</undervisning_elev>
+<lokaler_elev>12 700</lokaler_elev>
+</skola>
+<skola kommun_namn="H&#228;rryda" kommunkod="1401" huvudman="Kommunal">
+<antal_elever>581</antal_elever>
+<totalt>33 506</totalt>
+<undervisning>22 631</undervisning>
+<totalt_elev>57 700</totalt_elev>
+<undervisning_elev>39 000</undervisning_elev>
+<lokaler_elev>7 200</lokaler_elev>
+</skola>
+<skola kommun_namn="H&#228;ssleholm" kommunkod="1293" huvudman="Kommunal">
+<antal_elever>523</antal_elever>
+<totalt>34 555</totalt>
+<undervisning>25 732</undervisning>
+<totalt_elev>66 100</totalt_elev>
+<undervisning_elev>49 200</undervisning_elev>
+<lokaler_elev>7 500</lokaler_elev>
+</skola>
+<skola kommun_namn="H&#246;gan&#228;s" kommunkod="1284" huvudman="Kommunal">
+<antal_elever>286</antal_elever>
+<totalt>18 457</totalt>
+<undervisning>11 463</undervisning>
+<totalt_elev>64 500</totalt_elev>
+<undervisning_elev>40 100</undervisning_elev>
+<lokaler_elev>12 200</lokaler_elev>
+</skola>
+<skola kommun_namn="H&#246;gsby" kommunkod="0821" huvudman="Kommunal">
+<antal_elever>72</antal_elever>
+<totalt>3 532</totalt>
+<undervisning>2 533</undervisning>
+<totalt_elev>49 400</totalt_elev>
+<undervisning_elev>35 400</undervisning_elev>
+<lokaler_elev>7 000</lokaler_elev>
+</skola>
+<skola kommun_namn="H&#246;rby" kommunkod="1266" huvudman="Kommunal">
+<antal_elever>147</antal_elever>
+<totalt>8 573</totalt>
+<undervisning>5 018</undervisning>
+<totalt_elev>58 300</totalt_elev>
+<undervisning_elev>34 100</undervisning_elev>
+<lokaler_elev>9 900</lokaler_elev>
+</skola>
+<skola kommun_namn="H&#246;&#246;r" kommunkod="1267" huvudman="Kommunal">
+<antal_elever>169</antal_elever>
+<totalt>10 375</totalt>
+<undervisning>7 734</undervisning>
+<totalt_elev>61 600</totalt_elev>
+<undervisning_elev>45 900</undervisning_elev>
+<lokaler_elev>8 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Jokkmokk" kommunkod="2510" huvudman="Kommunal">
+<antal_elever>36</antal_elever>
+<totalt>1 850</totalt>
+<undervisning>1 633</undervisning>
+<totalt_elev>51 400</totalt_elev>
+<undervisning_elev>45 400</undervisning_elev>
+<lokaler_elev>.</lokaler_elev>
+</skola>
+<skola kommun_namn="J&#228;rf&#228;lla" kommunkod="0123" huvudman="Kommunal">
+<antal_elever>918</antal_elever>
+<totalt>55 215</totalt>
+<undervisning>33 255</undervisning>
+<totalt_elev>60 200</totalt_elev>
+<undervisning_elev>36 200</undervisning_elev>
+<lokaler_elev>13 200</lokaler_elev>
+</skola>
+<skola kommun_namn="J&#246;nk&#246;ping" kommunkod="0680" huvudman="Kommunal">
+<antal_elever>1 594</antal_elever>
+<totalt>80 623</totalt>
+<undervisning>55 447</undervisning>
+<totalt_elev>50 600</totalt_elev>
+<undervisning_elev>34 800</undervisning_elev>
+<lokaler_elev>6 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Kalix" kommunkod="2514" huvudman="Kommunal">
+<antal_elever>150</antal_elever>
+<totalt>11 838</totalt>
+<undervisning>6 495</undervisning>
+<totalt_elev>79 200</totalt_elev>
+<undervisning_elev>43 400</undervisning_elev>
+<lokaler_elev>13 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Kalmar" kommunkod="0880" huvudman="Kommunal">
+<antal_elever>746</antal_elever>
+<totalt>33 583</totalt>
+<undervisning>24 235</undervisning>
+<totalt_elev>45 000</totalt_elev>
+<undervisning_elev>32 500</undervisning_elev>
+<lokaler_elev>6 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Karlsborg" kommunkod="1446" huvudman="Kommunal">
+<antal_elever>48</antal_elever>
+<totalt>3 567</totalt>
+<undervisning>2 704</undervisning>
+<totalt_elev>75 100</totalt_elev>
+<undervisning_elev>56 900</undervisning_elev>
+<lokaler_elev>4 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Karlshamn" kommunkod="1082" huvudman="Kommunal">
+<antal_elever>332</antal_elever>
+<totalt>16 149</totalt>
+<undervisning>10 660</undervisning>
+<totalt_elev>48 600</totalt_elev>
+<undervisning_elev>32 100</undervisning_elev>
+<lokaler_elev>8 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Karlskoga" kommunkod="1883" huvudman="Kommunal">
+<antal_elever>328</antal_elever>
+<totalt>19 584</totalt>
+<undervisning>14 359</undervisning>
+<totalt_elev>59 700</totalt_elev>
+<undervisning_elev>43 800</undervisning_elev>
+<lokaler_elev>5 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Karlskrona" kommunkod="1080" huvudman="Kommunal">
+<antal_elever>621</antal_elever>
+<totalt>35 539</totalt>
+<undervisning>22 210</undervisning>
+<totalt_elev>57 200</totalt_elev>
+<undervisning_elev>35 800</undervisning_elev>
+<lokaler_elev>6 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Karlstad" kommunkod="1780" huvudman="Kommunal">
+<antal_elever>922</antal_elever>
+<totalt>61 243</totalt>
+<undervisning>35 965</undervisning>
+<totalt_elev>66 400</totalt_elev>
+<undervisning_elev>39 000</undervisning_elev>
+<lokaler_elev>16 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Katrineholm" kommunkod="0483" huvudman="Kommunal">
+<antal_elever>376</antal_elever>
+<totalt>24 025</totalt>
+<undervisning>15 287</undervisning>
+<totalt_elev>64 000</totalt_elev>
+<undervisning_elev>40 700</undervisning_elev>
+<lokaler_elev>11 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Kil" kommunkod="1715" huvudman="Kommunal">
+<antal_elever>143</antal_elever>
+<totalt>9 611</totalt>
+<undervisning>3 886</undervisning>
+<totalt_elev>67 400</totalt_elev>
+<undervisning_elev>27 300</undervisning_elev>
+<lokaler_elev>20 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Kinda" kommunkod="0513" huvudman="Kommunal">
+<antal_elever>113</antal_elever>
+<totalt>7 326</totalt>
+<undervisning>4 684</undervisning>
+<totalt_elev>64 800</totalt_elev>
+<undervisning_elev>41 500</undervisning_elev>
+<lokaler_elev>6 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Kiruna" kommunkod="2584" huvudman="Kommunal">
+<antal_elever>223</antal_elever>
+<totalt>19 938</totalt>
+<undervisning>13 284</undervisning>
+<totalt_elev>89 600</totalt_elev>
+<undervisning_elev>59 700</undervisning_elev>
+<lokaler_elev>20 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Klippan" kommunkod="1276" huvudman="Kommunal">
+<antal_elever>157</antal_elever>
+<totalt>8 833</totalt>
+<undervisning>5 292</undervisning>
+<totalt_elev>56 400</totalt_elev>
+<undervisning_elev>33 800</undervisning_elev>
+<lokaler_elev>10 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Knivsta" kommunkod="0330" huvudman="Kommunal">
+<antal_elever>249</antal_elever>
+<totalt>16 725</totalt>
+<undervisning>7 314</undervisning>
+<totalt_elev>67 300</totalt_elev>
+<undervisning_elev>29 400</undervisning_elev>
+<lokaler_elev>24 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Kramfors" kommunkod="2282" huvudman="Kommunal">
+<antal_elever>163</antal_elever>
+<totalt>9 955</totalt>
+<undervisning>6 411</undervisning>
+<totalt_elev>61 300</totalt_elev>
+<undervisning_elev>39 500</undervisning_elev>
+<lokaler_elev>9 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Kristianstad" kommunkod="1290" huvudman="Kommunal">
+<antal_elever>913</antal_elever>
+<totalt>57 332</totalt>
+<undervisning>38 760</undervisning>
+<totalt_elev>62 800</totalt_elev>
+<undervisning_elev>42 500</undervisning_elev>
+<lokaler_elev>11 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Kristinehamn" kommunkod="1781" huvudman="Kommunal">
+<antal_elever>254</antal_elever>
+<totalt>11 334</totalt>
+<undervisning>4 319</undervisning>
+<totalt_elev>44 600</totalt_elev>
+<undervisning_elev>17 000</undervisning_elev>
+<lokaler_elev>12 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Krokom" kommunkod="2309" huvudman="Kommunal">
+<antal_elever>214</antal_elever>
+<totalt>15 147</totalt>
+<undervisning>9 573</undervisning>
+<totalt_elev>70 800</totalt_elev>
+<undervisning_elev>44 700</undervisning_elev>
+<lokaler_elev>16 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Kumla" kommunkod="1881" huvudman="Kommunal">
+<antal_elever>308</antal_elever>
+<totalt>13 464</totalt>
+<undervisning>9 473</undervisning>
+<totalt_elev>43 800</totalt_elev>
+<undervisning_elev>30 800</undervisning_elev>
+<lokaler_elev>9 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Kungsbacka" kommunkod="1384" huvudman="Kommunal">
+<antal_elever>1 045</antal_elever>
+<totalt>53 873</totalt>
+<undervisning>36 979</undervisning>
+<totalt_elev>51 600</totalt_elev>
+<undervisning_elev>35 400</undervisning_elev>
+<lokaler_elev>10 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Kungs&#246;r" kommunkod="1960" huvudman="Kommunal">
+<antal_elever>101</antal_elever>
+<totalt>3 610</totalt>
+<undervisning>2 968</undervisning>
+<totalt_elev>35 700</totalt_elev>
+<undervisning_elev>29 400</undervisning_elev>
+<lokaler_elev>5 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Kung&#228;lv" kommunkod="1482" huvudman="Kommunal">
+<antal_elever>544</antal_elever>
+<totalt>23 949</totalt>
+<undervisning>20 492</undervisning>
+<totalt_elev>44 000</totalt_elev>
+<undervisning_elev>37 700</undervisning_elev>
+<lokaler_elev>1 900</lokaler_elev>
+</skola>
+<skola kommun_namn="K&#228;vlinge" kommunkod="1261" huvudman="Kommunal">
+<antal_elever>406</antal_elever>
+<totalt>16 436</totalt>
+<undervisning>12 226</undervisning>
+<totalt_elev>40 500</totalt_elev>
+<undervisning_elev>30 200</undervisning_elev>
+<lokaler_elev>3 100</lokaler_elev>
+</skola>
+<skola kommun_namn="K&#246;ping" kommunkod="1983" huvudman="Kommunal">
+<antal_elever>287</antal_elever>
+<totalt>18 838</totalt>
+<undervisning>14 287</undervisning>
+<totalt_elev>65 800</totalt_elev>
+<undervisning_elev>49 900</undervisning_elev>
+<lokaler_elev>10 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Laholm" kommunkod="1381" huvudman="Kommunal">
+<antal_elever>249</antal_elever>
+<totalt>14 540</totalt>
+<undervisning>8 704</undervisning>
+<totalt_elev>58 400</totalt_elev>
+<undervisning_elev>35 000</undervisning_elev>
+<lokaler_elev>13 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Landskrona" kommunkod="1282" huvudman="Kommunal">
+<antal_elever>508</antal_elever>
+<totalt>22 868</totalt>
+<undervisning>14 359</undervisning>
+<totalt_elev>45 100</totalt_elev>
+<undervisning_elev>28 300</undervisning_elev>
+<lokaler_elev>6 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Lax&#229;" kommunkod="1860" huvudman="Kommunal">
+<antal_elever>45</antal_elever>
+<totalt>4 681</totalt>
+<undervisning>3 289</undervisning>
+<totalt_elev>105 200</totalt_elev>
+<undervisning_elev>73 900</undervisning_elev>
+<lokaler_elev>13 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Lekeberg" kommunkod="1814" huvudman="Kommunal">
+<antal_elever>118</antal_elever>
+<totalt>5 303</totalt>
+<undervisning>4 333</undervisning>
+<totalt_elev>45 100</totalt_elev>
+<undervisning_elev>36 900</undervisning_elev>
+<lokaler_elev>2 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Leksand" kommunkod="2029" huvudman="Kommunal">
+<antal_elever>145</antal_elever>
+<totalt>9 158</totalt>
+<undervisning>6 111</undervisning>
+<totalt_elev>63 400</totalt_elev>
+<undervisning_elev>42 300</undervisning_elev>
+<lokaler_elev>9 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Lerum" kommunkod="1441" huvudman="Kommunal">
+<antal_elever>602</antal_elever>
+<totalt>32 042</totalt>
+<undervisning>19 942</undervisning>
+<totalt_elev>53 200</totalt_elev>
+<undervisning_elev>33 100</undervisning_elev>
+<lokaler_elev>8 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Lessebo" kommunkod="0761" huvudman="Kommunal">
+<antal_elever>115</antal_elever>
+<totalt>4 505</totalt>
+<undervisning>3 084</undervisning>
+<totalt_elev>39 200</totalt_elev>
+<undervisning_elev>26 800</undervisning_elev>
+<lokaler_elev>10 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Liding&#246;" kommunkod="0186" huvudman="Kommunal">
+<antal_elever>507</antal_elever>
+<totalt>26 758</totalt>
+<undervisning>15 288</undervisning>
+<totalt_elev>52 800</totalt_elev>
+<undervisning_elev>30 200</undervisning_elev>
+<lokaler_elev>17 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Lidk&#246;ping" kommunkod="1494" huvudman="Kommunal">
+<antal_elever>429</antal_elever>
+<totalt>28 245</totalt>
+<undervisning>15 660</undervisning>
+<totalt_elev>65 800</totalt_elev>
+<undervisning_elev>36 500</undervisning_elev>
+<lokaler_elev>12 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Lilla Edet" kommunkod="1462" huvudman="Kommunal">
+<antal_elever>141</antal_elever>
+<totalt>5 503</totalt>
+<undervisning>3 246</undervisning>
+<totalt_elev>39 200</totalt_elev>
+<undervisning_elev>23 100</undervisning_elev>
+<lokaler_elev>9 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Lindesberg" kommunkod="1885" huvudman="Kommunal">
+<antal_elever>263</antal_elever>
+<totalt>17 279</totalt>
+<undervisning>11 190</undervisning>
+<totalt_elev>65 800</totalt_elev>
+<undervisning_elev>42 600</undervisning_elev>
+<lokaler_elev>10 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Link&#246;ping" kommunkod="0580" huvudman="Kommunal">
+<antal_elever>1 702</antal_elever>
+<totalt>93 600</totalt>
+<undervisning>56 908</undervisning>
+<totalt_elev>55 000</totalt_elev>
+<undervisning_elev>33 400</undervisning_elev>
+<lokaler_elev>14 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Ljungby" kommunkod="0781" huvudman="Kommunal">
+<antal_elever>279</antal_elever>
+<totalt>18 395</totalt>
+<undervisning>12 583</undervisning>
+<totalt_elev>66 100</totalt_elev>
+<undervisning_elev>45 200</undervisning_elev>
+<lokaler_elev>14 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Ljusdal" kommunkod="2161" huvudman="Kommunal">
+<antal_elever>167</antal_elever>
+<totalt>10 540</totalt>
+<undervisning>5 848</undervisning>
+<totalt_elev>63 100</totalt_elev>
+<undervisning_elev>35 000</undervisning_elev>
+<lokaler_elev>11 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Ljusnarsberg" kommunkod="1864" huvudman="Kommunal">
+<antal_elever>36</antal_elever>
+<totalt>2 573</totalt>
+<undervisning>1 442</undervisning>
+<totalt_elev>71 500</totalt_elev>
+<undervisning_elev>40 100</undervisning_elev>
+<lokaler_elev>17 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Lomma" kommunkod="1262" huvudman="Kommunal">
+<antal_elever>370</antal_elever>
+<totalt>22 013</totalt>
+<undervisning>12 403</undervisning>
+<totalt_elev>59 600</totalt_elev>
+<undervisning_elev>33 600</undervisning_elev>
+<lokaler_elev>15 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Ludvika" kommunkod="2085" huvudman="Kommunal">
+<antal_elever>282</antal_elever>
+<totalt>18 180</totalt>
+<undervisning>11 432</undervisning>
+<totalt_elev>64 500</totalt_elev>
+<undervisning_elev>40 500</undervisning_elev>
+<lokaler_elev>10 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Lule&#229;" kommunkod="2580" huvudman="Kommunal">
+<antal_elever>778</antal_elever>
+<totalt>50 335</totalt>
+<undervisning>32 522</undervisning>
+<totalt_elev>64 700</totalt_elev>
+<undervisning_elev>41 800</undervisning_elev>
+<lokaler_elev>17 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Lund" kommunkod="1281" huvudman="Kommunal">
+<antal_elever>1 249</antal_elever>
+<totalt>93 721</totalt>
+<undervisning>62 088</undervisning>
+<totalt_elev>75 000</totalt_elev>
+<undervisning_elev>49 700</undervisning_elev>
+<lokaler_elev>17 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Lycksele" kommunkod="2481" huvudman="Kommunal">
+<antal_elever>144</antal_elever>
+<totalt>6 053</totalt>
+<undervisning>4 055</undervisning>
+<totalt_elev>42 200</totalt_elev>
+<undervisning_elev>28 300</undervisning_elev>
+<lokaler_elev>8 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Lysekil" kommunkod="1484" huvudman="Kommunal">
+<antal_elever>140</antal_elever>
+<totalt>7 534</totalt>
+<undervisning>4 954</undervisning>
+<totalt_elev>54 000</totalt_elev>
+<undervisning_elev>35 500</undervisning_elev>
+<lokaler_elev>16 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Malm&#246;" kommunkod="1280" huvudman="Kommunal">
+<antal_elever>3 480</antal_elever>
+<totalt>224 121</totalt>
+<undervisning>148 614</undervisning>
+<totalt_elev>64 400</totalt_elev>
+<undervisning_elev>42 700</undervisning_elev>
+<lokaler_elev>13 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Malung-S&#228;len" kommunkod="2023" huvudman="Kommunal">
+<antal_elever>101</antal_elever>
+<totalt>8 405</totalt>
+<undervisning>5 508</undervisning>
+<totalt_elev>83 600</totalt_elev>
+<undervisning_elev>54 800</undervisning_elev>
+<lokaler_elev>13 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Mal&#229;" kommunkod="2418" huvudman="Kommunal">
+<antal_elever>35</antal_elever>
+<totalt>3 054</totalt>
+<undervisning>2 124</undervisning>
+<totalt_elev>87 300</totalt_elev>
+<undervisning_elev>60 700</undervisning_elev>
+<lokaler_elev>8 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Mariestad" kommunkod="1493" huvudman="Kommunal">
+<antal_elever>230</antal_elever>
+<totalt>12 196</totalt>
+<undervisning>6 467</undervisning>
+<totalt_elev>53 100</totalt_elev>
+<undervisning_elev>28 200</undervisning_elev>
+<lokaler_elev>18 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Mark" kommunkod="1463" huvudman="Kommunal">
+<antal_elever>399</antal_elever>
+<totalt>22 365</totalt>
+<undervisning>12 867</undervisning>
+<totalt_elev>56 100</totalt_elev>
+<undervisning_elev>32 300</undervisning_elev>
+<lokaler_elev>12 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Markaryd" kommunkod="0767" huvudman="Kommunal">
+<antal_elever>108</antal_elever>
+<totalt>6 921</totalt>
+<undervisning>5 414</undervisning>
+<totalt_elev>64 100</totalt_elev>
+<undervisning_elev>50 100</undervisning_elev>
+<lokaler_elev>8 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Mellerud" kommunkod="1461" huvudman="Kommunal">
+<antal_elever>101</antal_elever>
+<totalt>6 159</totalt>
+<undervisning>4 231</undervisning>
+<totalt_elev>61 000</totalt_elev>
+<undervisning_elev>41 900</undervisning_elev>
+<lokaler_elev>13 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Mj&#246;lby" kommunkod="0586" huvudman="Kommunal">
+<antal_elever>316</antal_elever>
+<totalt>21 420</totalt>
+<undervisning>14 961</undervisning>
+<totalt_elev>67 900</totalt_elev>
+<undervisning_elev>47 400</undervisning_elev>
+<lokaler_elev>9 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Mora" kommunkod="2062" huvudman="Kommunal">
+<antal_elever>210</antal_elever>
+<totalt>11 453</totalt>
+<undervisning>7 022</undervisning>
+<totalt_elev>54 700</totalt_elev>
+<undervisning_elev>33 500</undervisning_elev>
+<lokaler_elev>8 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Motala" kommunkod="0583" huvudman="Kommunal">
+<antal_elever>451</antal_elever>
+<totalt>26 968</totalt>
+<undervisning>16 208</undervisning>
+<totalt_elev>59 900</totalt_elev>
+<undervisning_elev>36 000</undervisning_elev>
+<lokaler_elev>11 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Mullsj&#246;" kommunkod="0642" huvudman="Kommunal">
+<antal_elever>100</antal_elever>
+<totalt>5 563</totalt>
+<undervisning>3 286</undervisning>
+<totalt_elev>55 600</totalt_elev>
+<undervisning_elev>32 900</undervisning_elev>
+<lokaler_elev>9 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Munkedal" kommunkod="1430" huvudman="Kommunal">
+<antal_elever>116</antal_elever>
+<totalt>7 868</totalt>
+<undervisning>5 033</undervisning>
+<totalt_elev>67 800</totalt_elev>
+<undervisning_elev>43 400</undervisning_elev>
+<lokaler_elev>11 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Munkfors" kommunkod="1762" huvudman="Kommunal">
+<antal_elever>46</antal_elever>
+<totalt>2 973</totalt>
+<undervisning>2 062</undervisning>
+<totalt_elev>65 300</totalt_elev>
+<undervisning_elev>45 300</undervisning_elev>
+<lokaler_elev>7 900</lokaler_elev>
+</skola>
+<skola kommun_namn="M&#246;lndal" kommunkod="1481" huvudman="Kommunal">
+<antal_elever>825</antal_elever>
+<totalt>32 310</totalt>
+<undervisning>24 190</undervisning>
+<totalt_elev>39 200</totalt_elev>
+<undervisning_elev>29 300</undervisning_elev>
+<lokaler_elev>7 800</lokaler_elev>
+</skola>
+<skola kommun_namn="M&#246;nster&#229;s" kommunkod="0861" huvudman="Kommunal">
+<antal_elever>142</antal_elever>
+<totalt>10 423</totalt>
+<undervisning>7 435</undervisning>
+<totalt_elev>73 400</totalt_elev>
+<undervisning_elev>52 400</undervisning_elev>
+<lokaler_elev>11 100</lokaler_elev>
+</skola>
+<skola kommun_namn="M&#246;rbyl&#229;nga" kommunkod="0840" huvudman="Kommunal">
+<antal_elever>205</antal_elever>
+<totalt>7 822</totalt>
+<undervisning>5 431</undervisning>
+<totalt_elev>38 200</totalt_elev>
+<undervisning_elev>26 500</undervisning_elev>
+<lokaler_elev>9 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Nacka" kommunkod="0182" huvudman="Kommunal">
+<antal_elever>1 164</antal_elever>
+<totalt>60 793</totalt>
+<undervisning>39 711</undervisning>
+<totalt_elev>52 200</totalt_elev>
+<undervisning_elev>34 100</undervisning_elev>
+<lokaler_elev>9 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Nora" kommunkod="1884" huvudman="Kommunal">
+<antal_elever>115</antal_elever>
+<totalt>5 595</totalt>
+<undervisning>4 185</undervisning>
+<totalt_elev>48 700</totalt_elev>
+<undervisning_elev>36 400</undervisning_elev>
+<lokaler_elev>8 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Norberg" kommunkod="1962" huvudman="Kommunal">
+<antal_elever>74</antal_elever>
+<totalt>3 857</totalt>
+<undervisning>2 880</undervisning>
+<totalt_elev>52 500</totalt_elev>
+<undervisning_elev>39 200</undervisning_elev>
+<lokaler_elev>5 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Nordanstig" kommunkod="2132" huvudman="Kommunal">
+<antal_elever>105</antal_elever>
+<totalt>8 459</totalt>
+<undervisning>5 246</undervisning>
+<totalt_elev>80 900</totalt_elev>
+<undervisning_elev>50 200</undervisning_elev>
+<lokaler_elev>12 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Nordmaling" kommunkod="2401" huvudman="Kommunal">
+<antal_elever>73</antal_elever>
+<totalt>4 979</totalt>
+<undervisning>2 707</undervisning>
+<totalt_elev>68 700</totalt_elev>
+<undervisning_elev>37 300</undervisning_elev>
+<lokaler_elev>13 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Norrk&#246;ping" kommunkod="0581" huvudman="Kommunal">
+<antal_elever>1 582</antal_elever>
+<totalt>73 787</totalt>
+<undervisning>49 731</undervisning>
+<totalt_elev>46 600</totalt_elev>
+<undervisning_elev>31 400</undervisning_elev>
+<lokaler_elev>10 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Norrt&#228;lje" kommunkod="0188" huvudman="Kommunal">
+<antal_elever>460</antal_elever>
+<totalt>32 410</totalt>
+<undervisning>24 200</undervisning>
+<totalt_elev>70 500</totalt_elev>
+<undervisning_elev>52 600</undervisning_elev>
+<lokaler_elev>19 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Norsj&#246;" kommunkod="2417" huvudman="Kommunal">
+<antal_elever>46</antal_elever>
+<totalt>3 890</totalt>
+<undervisning>2 085</undervisning>
+<totalt_elev>85 500</totalt_elev>
+<undervisning_elev>45 800</undervisning_elev>
+<lokaler_elev>14 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Nybro" kommunkod="0881" huvudman="Kommunal">
+<antal_elever>221</antal_elever>
+<totalt>13 420</totalt>
+<undervisning>6 672</undervisning>
+<totalt_elev>60 700</totalt_elev>
+<undervisning_elev>30 200</undervisning_elev>
+<lokaler_elev>11 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Nykvarn" kommunkod="0140" huvudman="Kommunal">
+<antal_elever>164</antal_elever>
+<totalt>7 029</totalt>
+<undervisning>6 719</undervisning>
+<totalt_elev>42 900</totalt_elev>
+<undervisning_elev>41 000</undervisning_elev>
+<lokaler_elev>7 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Nyk&#246;ping" kommunkod="0480" huvudman="Kommunal">
+<antal_elever>543</antal_elever>
+<totalt>24 499</totalt>
+<undervisning>17 344</undervisning>
+<totalt_elev>45 200</totalt_elev>
+<undervisning_elev>32 000</undervisning_elev>
+<lokaler_elev>9 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Nyn&#228;shamn" kommunkod="0192" huvudman="Kommunal">
+<antal_elever>308</antal_elever>
+<totalt>14 867</totalt>
+<undervisning>10 693</undervisning>
+<totalt_elev>48 300</totalt_elev>
+<undervisning_elev>34 700</undervisning_elev>
+<lokaler_elev>7 300</lokaler_elev>
+</skola>
+<skola kommun_namn="N&#228;ssj&#246;" kommunkod="0682" huvudman="Kommunal">
+<antal_elever>344</antal_elever>
+<totalt>24 425</totalt>
+<undervisning>18 577</undervisning>
+<totalt_elev>71 000</totalt_elev>
+<undervisning_elev>54 000</undervisning_elev>
+<lokaler_elev>5 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Ockelbo" kommunkod="2101" huvudman="Kommunal">
+<antal_elever>51</antal_elever>
+<totalt>3 808</totalt>
+<undervisning>2 134</undervisning>
+<totalt_elev>74 700</totalt_elev>
+<undervisning_elev>41 800</undervisning_elev>
+<lokaler_elev>17 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Olofstr&#246;m" kommunkod="1060" huvudman="Kommunal">
+<antal_elever>136</antal_elever>
+<totalt>4 640</totalt>
+<undervisning>3 775</undervisning>
+<totalt_elev>34 200</totalt_elev>
+<undervisning_elev>27 900</undervisning_elev>
+<lokaler_elev>5 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Orsa" kommunkod="2034" huvudman="Kommunal">
+<antal_elever>64</antal_elever>
+<totalt>4 150</totalt>
+<undervisning>2 696</undervisning>
+<totalt_elev>64 800</totalt_elev>
+<undervisning_elev>42 100</undervisning_elev>
+<lokaler_elev>8 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Orust" kommunkod="1421" huvudman="Kommunal">
+<antal_elever>109</antal_elever>
+<totalt>10 913</totalt>
+<undervisning>4 915</undervisning>
+<totalt_elev>100 600</totalt_elev>
+<undervisning_elev>45 300</undervisning_elev>
+<lokaler_elev>33 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Osby" kommunkod="1273" huvudman="Kommunal">
+<antal_elever>149</antal_elever>
+<totalt>10 855</totalt>
+<undervisning>7 249</undervisning>
+<totalt_elev>72 900</totalt_elev>
+<undervisning_elev>48 700</undervisning_elev>
+<lokaler_elev>10 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Oskarshamn" kommunkod="0882" huvudman="Kommunal">
+<antal_elever>284</antal_elever>
+<totalt>13 989</totalt>
+<undervisning>9 254</undervisning>
+<totalt_elev>49 300</totalt_elev>
+<undervisning_elev>32 600</undervisning_elev>
+<lokaler_elev>8 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Ovan&#229;ker" kommunkod="2121" huvudman="Kommunal">
+<antal_elever>121</antal_elever>
+<totalt>7 798</totalt>
+<undervisning>5 020</undervisning>
+<totalt_elev>64 700</totalt_elev>
+<undervisning_elev>41 700</undervisning_elev>
+<lokaler_elev>6 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Oxel&#246;sund" kommunkod="0481" huvudman="Kommunal">
+<antal_elever>126</antal_elever>
+<totalt>8 711</totalt>
+<undervisning>7 463</undervisning>
+<totalt_elev>69 100</totalt_elev>
+<undervisning_elev>59 200</undervisning_elev>
+<lokaler_elev>5 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Pajala" kommunkod="2521" huvudman="Kommunal">
+<antal_elever>57</antal_elever>
+<totalt>3 281</totalt>
+<undervisning>2 612</undervisning>
+<totalt_elev>58 100</totalt_elev>
+<undervisning_elev>46 200</undervisning_elev>
+<lokaler_elev>3 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Partille" kommunkod="1402" huvudman="Kommunal">
+<antal_elever>556</antal_elever>
+<totalt>26 354</totalt>
+<undervisning>17 545</undervisning>
+<totalt_elev>47 400</totalt_elev>
+<undervisning_elev>31 600</undervisning_elev>
+<lokaler_elev>13 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Perstorp" kommunkod="1275" huvudman="Kommunal">
+<antal_elever>82</antal_elever>
+<totalt>5 368</totalt>
+<undervisning>3 498</undervisning>
+<totalt_elev>65 500</totalt_elev>
+<undervisning_elev>42 700</undervisning_elev>
+<lokaler_elev>13 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Pite&#229;" kommunkod="2581" huvudman="Kommunal">
+<antal_elever>402</antal_elever>
+<totalt>13 812</totalt>
+<undervisning>12 802</undervisning>
+<totalt_elev>34 400</totalt_elev>
+<undervisning_elev>31 900</undervisning_elev>
+<lokaler_elev>9 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Ragunda" kommunkod="2303" huvudman="Kommunal">
+<antal_elever>73</antal_elever>
+<totalt>5 546</totalt>
+<undervisning>4 011</undervisning>
+<totalt_elev>76 000</totalt_elev>
+<undervisning_elev>54 900</undervisning_elev>
+<lokaler_elev>15 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Robertsfors" kommunkod="2409" huvudman="Kommunal">
+<antal_elever>73</antal_elever>
+<totalt>4 099</totalt>
+<undervisning>2 531</undervisning>
+<totalt_elev>56 200</totalt_elev>
+<undervisning_elev>34 700</undervisning_elev>
+<lokaler_elev>5 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Ronneby" kommunkod="1081" huvudman="Kommunal">
+<antal_elever>297</antal_elever>
+<totalt>18 343</totalt>
+<undervisning>11 618</undervisning>
+<totalt_elev>61 900</totalt_elev>
+<undervisning_elev>39 200</undervisning_elev>
+<lokaler_elev>16 100</lokaler_elev>
+</skola>
+<skola kommun_namn="R&#228;ttvik" kommunkod="2031" huvudman="Kommunal">
+<antal_elever>92</antal_elever>
+<totalt>6 593</totalt>
+<undervisning>4 233</undervisning>
+<totalt_elev>72 100</totalt_elev>
+<undervisning_elev>46 300</undervisning_elev>
+<lokaler_elev>13 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Sala" kommunkod="1981" huvudman="Kommunal">
+<antal_elever>267</antal_elever>
+<totalt>11 958</totalt>
+<undervisning>8 046</undervisning>
+<totalt_elev>44 800</totalt_elev>
+<undervisning_elev>30 100</undervisning_elev>
+<lokaler_elev>12 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Salem" kommunkod="0128" huvudman="Kommunal">
+<antal_elever>154</antal_elever>
+<totalt>7 666</totalt>
+<undervisning>5 037</undervisning>
+<totalt_elev>49 800</totalt_elev>
+<undervisning_elev>32 700</undervisning_elev>
+<lokaler_elev>12 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Sandviken" kommunkod="2181" huvudman="Kommunal">
+<antal_elever>369</antal_elever>
+<totalt>21 832</totalt>
+<undervisning>15 980</undervisning>
+<totalt_elev>59 200</totalt_elev>
+<undervisning_elev>43 300</undervisning_elev>
+<lokaler_elev>8 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Sigtuna" kommunkod="0191" huvudman="Kommunal">
+<antal_elever>513</antal_elever>
+<totalt>25 424</totalt>
+<undervisning>15 698</undervisning>
+<totalt_elev>49 600</totalt_elev>
+<undervisning_elev>30 600</undervisning_elev>
+<lokaler_elev>11 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Simrishamn" kommunkod="1291" huvudman="Kommunal">
+<antal_elever>117</antal_elever>
+<totalt>7 988</totalt>
+<undervisning>5 213</undervisning>
+<totalt_elev>68 600</totalt_elev>
+<undervisning_elev>44 700</undervisning_elev>
+<lokaler_elev>12 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Sj&#246;bo" kommunkod="1265" huvudman="Kommunal">
+<antal_elever>147</antal_elever>
+<totalt>12 338</totalt>
+<undervisning>6 504</undervisning>
+<totalt_elev>84 200</totalt_elev>
+<undervisning_elev>44 400</undervisning_elev>
+<lokaler_elev>23 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Skara" kommunkod="1495" huvudman="Kommunal">
+<antal_elever>205</antal_elever>
+<totalt>11 570</totalt>
+<undervisning>6 670</undervisning>
+<totalt_elev>56 600</totalt_elev>
+<undervisning_elev>32 600</undervisning_elev>
+<lokaler_elev>9 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Skellefte&#229;" kommunkod="2482" huvudman="Kommunal">
+<antal_elever>800</antal_elever>
+<totalt>32 967</totalt>
+<undervisning>26 326</undervisning>
+<totalt_elev>41 200</totalt_elev>
+<undervisning_elev>32 900</undervisning_elev>
+<lokaler_elev>5 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Skinnskatteberg" kommunkod="1904" huvudman="Kommunal">
+<antal_elever>35</antal_elever>
+<totalt>3 145</totalt>
+<undervisning>1 797</undervisning>
+<totalt_elev>91 200</totalt_elev>
+<undervisning_elev>52 100</undervisning_elev>
+<lokaler_elev>19 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Skurup" kommunkod="1264" huvudman="Kommunal">
+<antal_elever>169</antal_elever>
+<totalt>8 744</totalt>
+<undervisning>4 800</undervisning>
+<totalt_elev>51 900</totalt_elev>
+<undervisning_elev>28 500</undervisning_elev>
+<lokaler_elev>9 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Sk&#246;vde" kommunkod="1496" huvudman="Kommunal">
+<antal_elever>578</antal_elever>
+<totalt>36 956</totalt>
+<undervisning>23 263</undervisning>
+<totalt_elev>63 900</totalt_elev>
+<undervisning_elev>40 200</undervisning_elev>
+<lokaler_elev>11 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Smedjebacken" kommunkod="2061" huvudman="Kommunal">
+<antal_elever>106</antal_elever>
+<totalt>9 112</totalt>
+<undervisning>5 899</undervisning>
+<totalt_elev>86 000</totalt_elev>
+<undervisning_elev>55 700</undervisning_elev>
+<lokaler_elev>17 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Sollefte&#229;" kommunkod="2283" huvudman="Kommunal">
+<antal_elever>205</antal_elever>
+<totalt>0</totalt>
+<undervisning>.</undervisning>
+<totalt_elev>0</totalt_elev>
+<undervisning_elev>.</undervisning_elev>
+<lokaler_elev>.</lokaler_elev>
+</skola>
+<skola kommun_namn="Sollentuna" kommunkod="0163" huvudman="Kommunal">
+<antal_elever>778</antal_elever>
+<totalt>35 143</totalt>
+<undervisning>25 335</undervisning>
+<totalt_elev>45 200</totalt_elev>
+<undervisning_elev>32 600</undervisning_elev>
+<lokaler_elev>4 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Solna" kommunkod="0184" huvudman="Kommunal">
+<antal_elever>599</antal_elever>
+<totalt>31 540</totalt>
+<undervisning>20 530</undervisning>
+<totalt_elev>52 700</totalt_elev>
+<undervisning_elev>34 300</undervisning_elev>
+<lokaler_elev>13 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Sorsele" kommunkod="2422" huvudman="Kommunal">
+<antal_elever>29</antal_elever>
+<totalt>2 066</totalt>
+<undervisning>1 084</undervisning>
+<totalt_elev>71 200</totalt_elev>
+<undervisning_elev>37 400</undervisning_elev>
+<lokaler_elev>11 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Soten&#228;s" kommunkod="1427" huvudman="Kommunal">
+<antal_elever>78</antal_elever>
+<totalt>3 122</totalt>
+<undervisning>2 787</undervisning>
+<totalt_elev>40 000</totalt_elev>
+<undervisning_elev>35 700</undervisning_elev>
+<lokaler_elev>.</lokaler_elev>
+</skola>
+<skola kommun_namn="Staffanstorp" kommunkod="1230" huvudman="Kommunal">
+<antal_elever>335</antal_elever>
+<totalt>22 459</totalt>
+<undervisning>15 531</undervisning>
+<totalt_elev>67 100</totalt_elev>
+<undervisning_elev>46 400</undervisning_elev>
+<lokaler_elev>9 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Stenungsund" kommunkod="1415" huvudman="Kommunal">
+<antal_elever>335</antal_elever>
+<totalt>14 401</totalt>
+<undervisning>7 937</undervisning>
+<totalt_elev>43 000</totalt_elev>
+<undervisning_elev>23 700</undervisning_elev>
+<lokaler_elev>11 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Stockholm" kommunkod="0180" huvudman="Kommunal">
+<antal_elever>8 741</antal_elever>
+<totalt>329 458</totalt>
+<undervisning>206 086</undervisning>
+<totalt_elev>37 700</totalt_elev>
+<undervisning_elev>23 600</undervisning_elev>
+<lokaler_elev>11 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Storfors" kommunkod="1760" huvudman="Kommunal">
+<antal_elever>40</antal_elever>
+<totalt>3 608</totalt>
+<undervisning>1 946</undervisning>
+<totalt_elev>90 200</totalt_elev>
+<undervisning_elev>48 700</undervisning_elev>
+<lokaler_elev>8 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Storuman" kommunkod="2421" huvudman="Kommunal">
+<antal_elever>60</antal_elever>
+<totalt>3 645</totalt>
+<undervisning>2 106</undervisning>
+<totalt_elev>61 300</totalt_elev>
+<undervisning_elev>35 400</undervisning_elev>
+<lokaler_elev>20 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Str&#228;ngn&#228;s" kommunkod="0486" huvudman="Kommunal">
+<antal_elever>341</antal_elever>
+<totalt>21 361</totalt>
+<undervisning>11 758</undervisning>
+<totalt_elev>62 700</totalt_elev>
+<undervisning_elev>34 500</undervisning_elev>
+<lokaler_elev>17 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Str&#246;mstad" kommunkod="1486" huvudman="Kommunal">
+<antal_elever>156</antal_elever>
+<totalt>11 049</totalt>
+<undervisning>7 717</undervisning>
+<totalt_elev>71 100</totalt_elev>
+<undervisning_elev>49 600</undervisning_elev>
+<lokaler_elev>9 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Str&#246;msund" kommunkod="2313" huvudman="Kommunal">
+<antal_elever>114</antal_elever>
+<totalt>7 700</totalt>
+<undervisning>5 506</undervisning>
+<totalt_elev>67 800</totalt_elev>
+<undervisning_elev>48 500</undervisning_elev>
+<lokaler_elev>5 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Sundbyberg" kommunkod="0183" huvudman="Kommunal">
+<antal_elever>446</antal_elever>
+<totalt>29 088</totalt>
+<undervisning>20 123</undervisning>
+<totalt_elev>65 300</totalt_elev>
+<undervisning_elev>45 200</undervisning_elev>
+<lokaler_elev>10 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Sundsvall" kommunkod="2281" huvudman="Kommunal">
+<antal_elever>1 106</antal_elever>
+<totalt>65 369</totalt>
+<undervisning>47 468</undervisning>
+<totalt_elev>59 100</totalt_elev>
+<undervisning_elev>42 900</undervisning_elev>
+<lokaler_elev>13 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Sunne" kommunkod="1766" huvudman="Kommunal">
+<antal_elever>143</antal_elever>
+<totalt>10 424</totalt>
+<undervisning>6 214</undervisning>
+<totalt_elev>73 200</totalt_elev>
+<undervisning_elev>43 600</undervisning_elev>
+<lokaler_elev>9 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Surahammar" kommunkod="1907" huvudman="Kommunal">
+<antal_elever>121</antal_elever>
+<totalt>5 012</totalt>
+<undervisning>3 427</undervisning>
+<totalt_elev>41 600</totalt_elev>
+<undervisning_elev>28 400</undervisning_elev>
+<lokaler_elev>5 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Sval&#246;v" kommunkod="1214" huvudman="Kommunal">
+<antal_elever>164</antal_elever>
+<totalt>9 954</totalt>
+<undervisning>6 600</undervisning>
+<totalt_elev>60 900</totalt_elev>
+<undervisning_elev>40 400</undervisning_elev>
+<lokaler_elev>10 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Svedala" kommunkod="1263" huvudman="Kommunal">
+<antal_elever>314</antal_elever>
+<totalt>16 622</totalt>
+<undervisning>13 577</undervisning>
+<totalt_elev>53 000</totalt_elev>
+<undervisning_elev>43 300</undervisning_elev>
+<lokaler_elev>5 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Svenljunga" kommunkod="1465" huvudman="Kommunal">
+<antal_elever>133</antal_elever>
+<totalt>5 587</totalt>
+<undervisning>3 514</undervisning>
+<totalt_elev>42 000</totalt_elev>
+<undervisning_elev>26 400</undervisning_elev>
+<lokaler_elev>6 000</lokaler_elev>
+</skola>
+<skola kommun_namn="S&#228;ffle" kommunkod="1785" huvudman="Kommunal">
+<antal_elever>154</antal_elever>
+<totalt>9 938</totalt>
+<undervisning>6 562</undervisning>
+<totalt_elev>64 500</totalt_elev>
+<undervisning_elev>42 600</undervisning_elev>
+<lokaler_elev>9 900</lokaler_elev>
+</skola>
+<skola kommun_namn="S&#228;ter" kommunkod="2082" huvudman="Kommunal">
+<antal_elever>120</antal_elever>
+<totalt>3 902</totalt>
+<undervisning>2 833</undervisning>
+<totalt_elev>32 500</totalt_elev>
+<undervisning_elev>23 600</undervisning_elev>
+<lokaler_elev>9 100</lokaler_elev>
+</skola>
+<skola kommun_namn="S&#228;vsj&#246;" kommunkod="0684" huvudman="Kommunal">
+<antal_elever>126</antal_elever>
+<totalt>7 175</totalt>
+<undervisning>4 179</undervisning>
+<totalt_elev>56 900</totalt_elev>
+<undervisning_elev>33 200</undervisning_elev>
+<lokaler_elev>4 700</lokaler_elev>
+</skola>
+<skola kommun_namn="S&#246;derhamn" kommunkod="2182" huvudman="Kommunal">
+<antal_elever>258</antal_elever>
+<totalt>12 026</totalt>
+<undervisning>7 345</undervisning>
+<totalt_elev>46 600</totalt_elev>
+<undervisning_elev>28 500</undervisning_elev>
+<lokaler_elev>12 200</lokaler_elev>
+</skola>
+<skola kommun_namn="S&#246;derk&#246;ping" kommunkod="0582" huvudman="Kommunal">
+<antal_elever>157</antal_elever>
+<totalt>7 444</totalt>
+<undervisning>5 361</undervisning>
+<totalt_elev>47 600</totalt_elev>
+<undervisning_elev>34 300</undervisning_elev>
+<lokaler_elev>7 900</lokaler_elev>
+</skola>
+<skola kommun_namn="S&#246;dert&#228;lje" kommunkod="0181" huvudman="Kommunal">
+<antal_elever>908</antal_elever>
+<totalt>50 170</totalt>
+<undervisning>37 811</undervisning>
+<totalt_elev>55 300</totalt_elev>
+<undervisning_elev>41 700</undervisning_elev>
+<lokaler_elev>7 600</lokaler_elev>
+</skola>
+<skola kommun_namn="S&#246;lvesborg" kommunkod="1083" huvudman="Kommunal">
+<antal_elever>191</antal_elever>
+<totalt>12 827</totalt>
+<undervisning>7 419</undervisning>
+<totalt_elev>67 300</totalt_elev>
+<undervisning_elev>38 900</undervisning_elev>
+<lokaler_elev>14 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Tanum" kommunkod="1435" huvudman="Kommunal">
+<antal_elever>133</antal_elever>
+<totalt>7 893</totalt>
+<undervisning>4 668</undervisning>
+<totalt_elev>59 600</totalt_elev>
+<undervisning_elev>35 200</undervisning_elev>
+<lokaler_elev>9 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Tibro" kommunkod="1472" huvudman="Kommunal">
+<antal_elever>123</antal_elever>
+<totalt>5 505</totalt>
+<undervisning>4 268</undervisning>
+<totalt_elev>44 900</totalt_elev>
+<undervisning_elev>34 800</undervisning_elev>
+<lokaler_elev>3 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Tidaholm" kommunkod="1498" huvudman="Kommunal">
+<antal_elever>137</antal_elever>
+<totalt>7 829</totalt>
+<undervisning>4 972</undervisning>
+<totalt_elev>57 100</totalt_elev>
+<undervisning_elev>36 300</undervisning_elev>
+<lokaler_elev>9 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Tierp" kommunkod="0360" huvudman="Kommunal">
+<antal_elever>224</antal_elever>
+<totalt>9 290</totalt>
+<undervisning>5 334</undervisning>
+<totalt_elev>41 600</totalt_elev>
+<undervisning_elev>23 900</undervisning_elev>
+<lokaler_elev>14 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Timr&#229;" kommunkod="2262" huvudman="Kommunal">
+<antal_elever>203</antal_elever>
+<totalt>13 967</totalt>
+<undervisning>8 768</undervisning>
+<totalt_elev>69 000</totalt_elev>
+<undervisning_elev>43 300</undervisning_elev>
+<lokaler_elev>19 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Tingsryd" kommunkod="0763" huvudman="Kommunal">
+<antal_elever>127</antal_elever>
+<totalt>4 760</totalt>
+<undervisning>3 630</undervisning>
+<totalt_elev>37 500</totalt_elev>
+<undervisning_elev>28 600</undervisning_elev>
+<lokaler_elev>6 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Tj&#246;rn" kommunkod="1419" huvudman="Kommunal">
+<antal_elever>166</antal_elever>
+<totalt>11 138</totalt>
+<undervisning>6 290</undervisning>
+<totalt_elev>67 100</totalt_elev>
+<undervisning_elev>37 900</undervisning_elev>
+<lokaler_elev>15 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Tomelilla" kommunkod="1270" huvudman="Kommunal">
+<antal_elever>133</antal_elever>
+<totalt>6 477</totalt>
+<undervisning>5 714</undervisning>
+<totalt_elev>48 900</totalt_elev>
+<undervisning_elev>43 100</undervisning_elev>
+<lokaler_elev>7 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Torsby" kommunkod="1737" huvudman="Kommunal">
+<antal_elever>110</antal_elever>
+<totalt>7 222</totalt>
+<undervisning>5 210</undervisning>
+<totalt_elev>66 000</totalt_elev>
+<undervisning_elev>47 600</undervisning_elev>
+<lokaler_elev>18 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Tors&#229;s" kommunkod="0834" huvudman="Kommunal">
+<antal_elever>74</antal_elever>
+<totalt>4 588</totalt>
+<undervisning>2 767</undervisning>
+<totalt_elev>62 400</totalt_elev>
+<undervisning_elev>37 600</undervisning_elev>
+<lokaler_elev>6 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Tranemo" kommunkod="1452" huvudman="Kommunal">
+<antal_elever>145</antal_elever>
+<totalt>9 830</totalt>
+<undervisning>5 383</undervisning>
+<totalt_elev>68 000</totalt_elev>
+<undervisning_elev>37 300</undervisning_elev>
+<lokaler_elev>10 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Tran&#229;s" kommunkod="0687" huvudman="Kommunal">
+<antal_elever>200</antal_elever>
+<totalt>10 146</totalt>
+<undervisning>6 956</undervisning>
+<totalt_elev>50 900</totalt_elev>
+<undervisning_elev>34 900</undervisning_elev>
+<lokaler_elev>5 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Trelleborg" kommunkod="1287" huvudman="Kommunal">
+<antal_elever>505</antal_elever>
+<totalt>26 223</totalt>
+<undervisning>17 091</undervisning>
+<totalt_elev>51 900</totalt_elev>
+<undervisning_elev>33 800</undervisning_elev>
+<lokaler_elev>8 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Trollh&#228;ttan" kommunkod="1488" huvudman="Kommunal">
+<antal_elever>621</antal_elever>
+<totalt>30 937</totalt>
+<undervisning>23 134</undervisning>
+<totalt_elev>49 800</totalt_elev>
+<undervisning_elev>37 300</undervisning_elev>
+<lokaler_elev>5 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Trosa" kommunkod="0488" huvudman="Kommunal">
+<antal_elever>143</antal_elever>
+<totalt>6 954</totalt>
+<undervisning>4 932</undervisning>
+<totalt_elev>48 600</totalt_elev>
+<undervisning_elev>34 500</undervisning_elev>
+<lokaler_elev>5 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Tyres&#246;" kommunkod="0138" huvudman="Kommunal">
+<antal_elever>600</antal_elever>
+<totalt>35 938</totalt>
+<undervisning>24 271</undervisning>
+<totalt_elev>59 900</totalt_elev>
+<undervisning_elev>40 500</undervisning_elev>
+<lokaler_elev>10 300</lokaler_elev>
+</skola>
+<skola kommun_namn="T&#228;by" kommunkod="0160" huvudman="Kommunal">
+<antal_elever>776</antal_elever>
+<totalt>39 043</totalt>
+<undervisning>26 013</undervisning>
+<totalt_elev>50 300</totalt_elev>
+<undervisning_elev>33 500</undervisning_elev>
+<lokaler_elev>8 300</lokaler_elev>
+</skola>
+<skola kommun_namn="T&#246;reboda" kommunkod="1473" huvudman="Kommunal">
+<antal_elever>93</antal_elever>
+<totalt>6 856</totalt>
+<undervisning>4 573</undervisning>
+<totalt_elev>74 100</totalt_elev>
+<undervisning_elev>49 400</undervisning_elev>
+<lokaler_elev>7 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Uddevalla" kommunkod="1485" huvudman="Kommunal">
+<antal_elever>592</antal_elever>
+<totalt>17 459</totalt>
+<undervisning>13 997</undervisning>
+<totalt_elev>29 500</totalt_elev>
+<undervisning_elev>23 700</undervisning_elev>
+<lokaler_elev>3 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Ulricehamn" kommunkod="1491" huvudman="Kommunal">
+<antal_elever>241</antal_elever>
+<totalt>13 093</totalt>
+<undervisning>8 832</undervisning>
+<totalt_elev>54 400</totalt_elev>
+<undervisning_elev>36 700</undervisning_elev>
+<lokaler_elev>5 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Ume&#229;" kommunkod="2480" huvudman="Kommunal">
+<antal_elever>1 361</antal_elever>
+<totalt>64 779</totalt>
+<undervisning>45 621</undervisning>
+<totalt_elev>47 600</totalt_elev>
+<undervisning_elev>33 500</undervisning_elev>
+<lokaler_elev>7 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Upplands V&#228;sby" kommunkod="0114" huvudman="Kommunal">
+<antal_elever>271</antal_elever>
+<totalt>14 765</totalt>
+<undervisning>10 339</undervisning>
+<totalt_elev>54 500</totalt_elev>
+<undervisning_elev>38 200</undervisning_elev>
+<lokaler_elev>8 300</lokaler_elev>
+</skola>
+<skola kommun_namn="Upplands-Bro" kommunkod="0139" huvudman="Kommunal">
+<antal_elever>327</antal_elever>
+<totalt>15 563</totalt>
+<undervisning>11 689</undervisning>
+<totalt_elev>47 600</totalt_elev>
+<undervisning_elev>35 700</undervisning_elev>
+<lokaler_elev>6 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Uppsala" kommunkod="0380" huvudman="Kommunal">
+<antal_elever>2 252</antal_elever>
+<totalt>130 735</totalt>
+<undervisning>77 118</undervisning>
+<totalt_elev>58 100</totalt_elev>
+<undervisning_elev>34 300</undervisning_elev>
+<lokaler_elev>13 400</lokaler_elev>
+</skola>
+<skola kommun_namn="Uppvidinge" kommunkod="0760" huvudman="Kommunal">
+<antal_elever>102</antal_elever>
+<totalt>5 865</totalt>
+<undervisning>4 051</undervisning>
+<totalt_elev>57 800</totalt_elev>
+<undervisning_elev>39 900</undervisning_elev>
+<lokaler_elev>9 100</lokaler_elev>
+</skola>
+<skola kommun_namn="Vadstena" kommunkod="0584" huvudman="Kommunal">
+<antal_elever>55</antal_elever>
+<totalt>4 348</totalt>
+<undervisning>2 555</undervisning>
+<totalt_elev>79 100</totalt_elev>
+<undervisning_elev>46 500</undervisning_elev>
+<lokaler_elev>12 500</lokaler_elev>
+</skola>
+<skola kommun_namn="Vaggeryd" kommunkod="0665" huvudman="Kommunal">
+<antal_elever>163</antal_elever>
+<totalt>9 812</totalt>
+<undervisning>6 829</undervisning>
+<totalt_elev>60 400</totalt_elev>
+<undervisning_elev>42 000</undervisning_elev>
+<lokaler_elev>9 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Valdemarsvik" kommunkod="0563" huvudman="Kommunal">
+<antal_elever>67</antal_elever>
+<totalt>2 866</totalt>
+<undervisning>2 009</undervisning>
+<totalt_elev>42 800</totalt_elev>
+<undervisning_elev>30 000</undervisning_elev>
+<lokaler_elev>3 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Vallentuna" kommunkod="0115" huvudman="Kommunal">
+<antal_elever>449</antal_elever>
+<totalt>32 510</totalt>
+<undervisning>20 034</undervisning>
+<totalt_elev>72 500</totalt_elev>
+<undervisning_elev>44 700</undervisning_elev>
+<lokaler_elev>15 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Vansbro" kommunkod="2021" huvudman="Kommunal">
+<antal_elever>65</antal_elever>
+<totalt>4 536</totalt>
+<undervisning>2 614</undervisning>
+<totalt_elev>70 300</totalt_elev>
+<undervisning_elev>40 500</undervisning_elev>
+<lokaler_elev>14 900</lokaler_elev>
+</skola>
+<skola kommun_namn="Vara" kommunkod="1470" huvudman="Kommunal">
+<antal_elever>118</antal_elever>
+<totalt>12 148</totalt>
+<undervisning>7 358</undervisning>
+<totalt_elev>102 900</totalt_elev>
+<undervisning_elev>62 400</undervisning_elev>
+<lokaler_elev>25 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Varberg" kommunkod="1383" huvudman="Kommunal">
+<antal_elever>697</antal_elever>
+<totalt>51 467</totalt>
+<undervisning>33 833</undervisning>
+<totalt_elev>73 800</totalt_elev>
+<undervisning_elev>48 500</undervisning_elev>
+<lokaler_elev>9 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Vaxholm" kommunkod="0187" huvudman="Kommunal">
+<antal_elever>156</antal_elever>
+<totalt>7 453</totalt>
+<undervisning>4 564</undervisning>
+<totalt_elev>47 800</totalt_elev>
+<undervisning_elev>29 300</undervisning_elev>
+<lokaler_elev>11 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Vellinge" kommunkod="1233" huvudman="Kommunal">
+<antal_elever>327</antal_elever>
+<totalt>14 190</totalt>
+<undervisning>9 300</undervisning>
+<totalt_elev>43 500</totalt_elev>
+<undervisning_elev>28 500</undervisning_elev>
+<lokaler_elev>7 200</lokaler_elev>
+</skola>
+<skola kommun_namn="Vetlanda" kommunkod="0685" huvudman="Kommunal">
+<antal_elever>332</antal_elever>
+<totalt>20 324</totalt>
+<undervisning>14 547</undervisning>
+<totalt_elev>61 300</totalt_elev>
+<undervisning_elev>43 900</undervisning_elev>
+<lokaler_elev>6 600</lokaler_elev>
+</skola>
+<skola kommun_namn="Vilhelmina" kommunkod="2462" huvudman="Kommunal">
+<antal_elever>72</antal_elever>
+<totalt>2 810</totalt>
+<undervisning>2 098</undervisning>
+<totalt_elev>39 000</totalt_elev>
+<undervisning_elev>29 100</undervisning_elev>
+<lokaler_elev>6 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Vimmerby" kommunkod="0884" huvudman="Kommunal">
+<antal_elever>172</antal_elever>
+<totalt>10 442</totalt>
+<undervisning>7 251</undervisning>
+<totalt_elev>60 900</totalt_elev>
+<undervisning_elev>42 300</undervisning_elev>
+<lokaler_elev>8 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Vindeln" kommunkod="2404" huvudman="Kommunal">
+<antal_elever>62</antal_elever>
+<totalt>2 704</totalt>
+<undervisning>2 259</undervisning>
+<totalt_elev>44 000</totalt_elev>
+<undervisning_elev>36 700</undervisning_elev>
+<lokaler_elev>4 800</lokaler_elev>
+</skola>
+<skola kommun_namn="Ving&#229;ker" kommunkod="0428" huvudman="Kommunal">
+<antal_elever>99</antal_elever>
+<totalt>6 522</totalt>
+<undervisning>3 712</undervisning>
+<totalt_elev>65 900</totalt_elev>
+<undervisning_elev>37 500</undervisning_elev>
+<lokaler_elev>7 200</lokaler_elev>
+</skola>
+<skola kommun_namn="V&#229;rg&#229;rda" kommunkod="1442" huvudman="Kommunal">
+<antal_elever>135</antal_elever>
+<totalt>9 653</totalt>
+<undervisning>4 898</undervisning>
+<totalt_elev>71 500</totalt_elev>
+<undervisning_elev>36 300</undervisning_elev>
+<lokaler_elev>15 200</lokaler_elev>
+</skola>
+<skola kommun_namn="V&#228;nersborg" kommunkod="1487" huvudman="Kommunal">
+<antal_elever>444</antal_elever>
+<totalt>18 400</totalt>
+<undervisning>14 689</undervisning>
+<totalt_elev>41 400</totalt_elev>
+<undervisning_elev>33 100</undervisning_elev>
+<lokaler_elev>5 500</lokaler_elev>
+</skola>
+<skola kommun_namn="V&#228;nn&#228;s" kommunkod="2460" huvudman="Kommunal">
+<antal_elever>100</antal_elever>
+<totalt>7 231</totalt>
+<undervisning>5 154</undervisning>
+<totalt_elev>72 700</totalt_elev>
+<undervisning_elev>51 800</undervisning_elev>
+<lokaler_elev>7 700</lokaler_elev>
+</skola>
+<skola kommun_namn="V&#228;rmd&#246;" kommunkod="0120" huvudman="Kommunal">
+<antal_elever>480</antal_elever>
+<totalt>17 265</totalt>
+<undervisning>14 927</undervisning>
+<totalt_elev>36 000</totalt_elev>
+<undervisning_elev>31 100</undervisning_elev>
+<lokaler_elev>3 700</lokaler_elev>
+</skola>
+<skola kommun_namn="V&#228;rnamo" kommunkod="0683" huvudman="Kommunal">
+<antal_elever>358</antal_elever>
+<totalt>31 547</totalt>
+<undervisning>15 681</undervisning>
+<totalt_elev>88 200</totalt_elev>
+<undervisning_elev>43 900</undervisning_elev>
+<lokaler_elev>15 200</lokaler_elev>
+</skola>
+<skola kommun_namn="V&#228;stervik" kommunkod="0883" huvudman="Kommunal">
+<antal_elever>359</antal_elever>
+<totalt>31 563</totalt>
+<undervisning>18 333</undervisning>
+<totalt_elev>88 000</totalt_elev>
+<undervisning_elev>51 100</undervisning_elev>
+<lokaler_elev>14 800</lokaler_elev>
+</skola>
+<skola kommun_namn="V&#228;ster&#229;s" kommunkod="1980" huvudman="Kommunal">
+<antal_elever>1 448</antal_elever>
+<totalt>66 365</totalt>
+<undervisning>48 244</undervisning>
+<totalt_elev>45 800</totalt_elev>
+<undervisning_elev>33 300</undervisning_elev>
+<lokaler_elev>7 900</lokaler_elev>
+</skola>
+<skola kommun_namn="V&#228;xj&#246;" kommunkod="0780" huvudman="Kommunal">
+<antal_elever>1 058</antal_elever>
+<totalt>52 830</totalt>
+<undervisning>38 233</undervisning>
+<totalt_elev>49 900</totalt_elev>
+<undervisning_elev>36 100</undervisning_elev>
+<lokaler_elev>9 700</lokaler_elev>
+</skola>
+<skola kommun_namn="Ydre" kommunkod="0512" huvudman="Kommunal">
+<antal_elever>39</antal_elever>
+<totalt>3 786</totalt>
+<undervisning>1 676</undervisning>
+<totalt_elev>97 100</totalt_elev>
+<undervisning_elev>43 000</undervisning_elev>
+<lokaler_elev>11 000</lokaler_elev>
+</skola>
+<skola kommun_namn="Ystad" kommunkod="1286" huvudman="Kommunal">
+<antal_elever>279</antal_elever>
+<totalt>12 676</totalt>
+<undervisning>9 114</undervisning>
+<totalt_elev>45 400</totalt_elev>
+<undervisning_elev>32 700</undervisning_elev>
+<lokaler_elev>7 300</lokaler_elev>
+</skola>
+<skola kommun_namn="&#197;m&#229;l" kommunkod="1492" huvudman="Kommunal">
+<antal_elever>122</antal_elever>
+<totalt>5 545</totalt>
+<undervisning>3 401</undervisning>
+<totalt_elev>45 600</totalt_elev>
+<undervisning_elev>28 000</undervisning_elev>
+<lokaler_elev>6 200</lokaler_elev>
+</skola>
+<skola kommun_namn="&#197;nge" kommunkod="2260" huvudman="Kommunal">
+<antal_elever>80</antal_elever>
+<totalt>6 208</totalt>
+<undervisning>4 168</undervisning>
+<totalt_elev>78 100</totalt_elev>
+<undervisning_elev>52 400</undervisning_elev>
+<lokaler_elev>13 600</lokaler_elev>
+</skola>
+<skola kommun_namn="&#197;re" kommunkod="2321" huvudman="Kommunal">
+<antal_elever>140</antal_elever>
+<totalt>12 585</totalt>
+<undervisning>9 901</undervisning>
+<totalt_elev>90 200</totalt_elev>
+<undervisning_elev>71 000</undervisning_elev>
+<lokaler_elev>10 600</lokaler_elev>
+</skola>
+<skola kommun_namn="&#197;rj&#228;ng" kommunkod="1765" huvudman="Kommunal">
+<antal_elever>107</antal_elever>
+<totalt>8 005</totalt>
+<undervisning>5 251</undervisning>
+<totalt_elev>74 800</totalt_elev>
+<undervisning_elev>49 100</undervisning_elev>
+<lokaler_elev>8 700</lokaler_elev>
+</skola>
+<skola kommun_namn="&#197;sele" kommunkod="2463" huvudman="Kommunal">
+<antal_elever>20</antal_elever>
+<totalt>637</totalt>
+<undervisning>567</undervisning>
+<totalt_elev>32 700</totalt_elev>
+<undervisning_elev>29 100</undervisning_elev>
+<lokaler_elev>13 300</lokaler_elev>
+</skola>
+<skola kommun_namn="&#197;storp" kommunkod="1277" huvudman="Kommunal">
+<antal_elever>201</antal_elever>
+<totalt>7 080</totalt>
+<undervisning>5 625</undervisning>
+<totalt_elev>35 200</totalt_elev>
+<undervisning_elev>28 000</undervisning_elev>
+<lokaler_elev>6 400</lokaler_elev>
+</skola>
+<skola kommun_namn="&#197;tvidaberg" kommunkod="0561" huvudman="Kommunal">
+<antal_elever>106</antal_elever>
+<totalt>6 251</totalt>
+<undervisning>4 246</undervisning>
+<totalt_elev>59 000</totalt_elev>
+<undervisning_elev>40 100</undervisning_elev>
+<lokaler_elev>5 900</lokaler_elev>
+</skola>
+<skola kommun_namn="&#196;lmhult" kommunkod="0765" huvudman="Kommunal">
+<antal_elever>208</antal_elever>
+<totalt>10 641</totalt>
+<undervisning>8 998</undervisning>
+<totalt_elev>51 300</totalt_elev>
+<undervisning_elev>43 400</undervisning_elev>
+<lokaler_elev>3 600</lokaler_elev>
+</skola>
+<skola kommun_namn="&#196;lvdalen" kommunkod="2039" huvudman="Kommunal">
+<antal_elever>72</antal_elever>
+<totalt>4 935</totalt>
+<undervisning>2 962</undervisning>
+<totalt_elev>69 000</totalt_elev>
+<undervisning_elev>41 400</undervisning_elev>
+<lokaler_elev>14 300</lokaler_elev>
+</skola>
+<skola kommun_namn="&#196;lvkarleby" kommunkod="0319" huvudman="Kommunal">
+<antal_elever>99</antal_elever>
+<totalt>4 666</totalt>
+<undervisning>3 138</undervisning>
+<totalt_elev>47 100</totalt_elev>
+<undervisning_elev>31 700</undervisning_elev>
+<lokaler_elev>6 600</lokaler_elev>
+</skola>
+<skola kommun_namn="&#196;lvsbyn" kommunkod="2560" huvudman="Kommunal">
+<antal_elever>88</antal_elever>
+<totalt>8 112</totalt>
+<undervisning>5 647</undervisning>
+<totalt_elev>92 700</totalt_elev>
+<undervisning_elev>64 500</undervisning_elev>
+<lokaler_elev>10 700</lokaler_elev>
+</skola>
+<skola kommun_namn="&#196;ngelholm" kommunkod="1292" huvudman="Kommunal">
+<antal_elever>473</antal_elever>
+<totalt>24 224</totalt>
+<undervisning>17 765</undervisning>
+<totalt_elev>51 200</totalt_elev>
+<undervisning_elev>37 600</undervisning_elev>
+<lokaler_elev>5 200</lokaler_elev>
+</skola>
+<skola kommun_namn="&#214;cker&#246;" kommunkod="1407" huvudman="Kommunal">
+<antal_elever>133</antal_elever>
+<totalt>7 415</totalt>
+<undervisning>4 687</undervisning>
+<totalt_elev>55 800</totalt_elev>
+<undervisning_elev>35 200</undervisning_elev>
+<lokaler_elev>17 800</lokaler_elev>
+</skola>
+<skola kommun_namn="&#214;desh&#246;g" kommunkod="0509" huvudman="Kommunal">
+<antal_elever>51</antal_elever>
+<totalt>3 294</totalt>
+<undervisning>2 626</undervisning>
+<totalt_elev>64 600</totalt_elev>
+<undervisning_elev>51 500</undervisning_elev>
+<lokaler_elev>15 500</lokaler_elev>
+</skola>
+<skola kommun_namn="&#214;rebro" kommunkod="1880" huvudman="Kommunal">
+<antal_elever>1 572</antal_elever>
+<totalt>88 775</totalt>
+<undervisning>56 090</undervisning>
+<totalt_elev>56 500</totalt_elev>
+<undervisning_elev>35 700</undervisning_elev>
+<lokaler_elev>11 400</lokaler_elev>
+</skola>
+<skola kommun_namn="&#214;rkelljunga" kommunkod="1257" huvudman="Kommunal">
+<antal_elever>95</antal_elever>
+<totalt>4 532</totalt>
+<undervisning>3 500</undervisning>
+<totalt_elev>48 000</totalt_elev>
+<undervisning_elev>37 000</undervisning_elev>
+<lokaler_elev>7 800</lokaler_elev>
+</skola>
+<skola kommun_namn="&#214;rnsk&#246;ldsvik" kommunkod="2284" huvudman="Kommunal">
+<antal_elever>634</antal_elever>
+<totalt>64 938</totalt>
+<undervisning>41 802</undervisning>
+<totalt_elev>102 500</totalt_elev>
+<undervisning_elev>66 000</undervisning_elev>
+<lokaler_elev>16 100</lokaler_elev>
+</skola>
+<skola kommun_namn="&#214;stersund" kommunkod="2380" huvudman="Kommunal">
+<antal_elever>644</antal_elever>
+<totalt>32 278</totalt>
+<undervisning>19 818</undervisning>
+<totalt_elev>50 200</totalt_elev>
+<undervisning_elev>30 800</undervisning_elev>
+<lokaler_elev>3 900</lokaler_elev>
+</skola>
+<skola kommun_namn="&#214;ster&#229;ker" kommunkod="0117" huvudman="Kommunal">
+<antal_elever>461</antal_elever>
+<totalt>23 100</totalt>
+<undervisning>15 774</undervisning>
+<totalt_elev>50 200</totalt_elev>
+<undervisning_elev>34 300</undervisning_elev>
+<lokaler_elev>7 000</lokaler_elev>
+</skola>
+<skola kommun_namn="&#214;sthammar" kommunkod="0382" huvudman="Kommunal">
+<antal_elever>227</antal_elever>
+<totalt>14 736</totalt>
+<undervisning>5 931</undervisning>
+<totalt_elev>64 900</totalt_elev>
+<undervisning_elev>26 100</undervisning_elev>
+<lokaler_elev>22 000</lokaler_elev>
+</skola>
+<skola kommun_namn="&#214;stra G&#246;inge" kommunkod="1256" huvudman="Kommunal">
+<antal_elever>155</antal_elever>
+<totalt>9 643</totalt>
+<undervisning>6 146</undervisning>
+<totalt_elev>62 400</totalt_elev>
+<undervisning_elev>39 800</undervisning_elev>
+<lokaler_elev>8 100</lokaler_elev>
+</skola>
+<skola kommun_namn="&#214;verkalix" kommunkod="2513" huvudman="Kommunal">
+<antal_elever>20</antal_elever>
+<totalt>1 688</totalt>
+<undervisning>909</undervisning>
+<totalt_elev>84 400</totalt_elev>
+<undervisning_elev>45 500</undervisning_elev>
+<lokaler_elev>11 200</lokaler_elev>
+</skola>
+<skola kommun_namn="&#214;vertorne&#229;" kommunkod="2518" huvudman="Kommunal">
+<antal_elever>32</antal_elever>
+<totalt>2 493</totalt>
+<undervisning>1 742</undervisning>
+<totalt_elev>77 900</totalt_elev>
+<undervisning_elev>54 400</undervisning_elev>
+<lokaler_elev>4 100</lokaler_elev>
+</skola>
+<avslutning>
+<del1>Rapportbeskrivning och definitioner etc.
+
+P&#229; grund av ekonomisk statistisk sekretess visas endast kostnader f&#246;r skolor med kommunal huvudman.</del1>
+<definitioner>
+<variabel>Genomsnittligt elevantal</variabel><definition>Medeltal av antalet elever (inkl. integrerade s&#228;rskoleelever) 15 oktober redovisat &#229;r och 14 oktober &#229;ret innan.</definition>
+<variabel>Totalt</variabel><definition>Den totala kostnaden i tusentals kronor f&#246;r valt &#229;r.</definition>
+<variabel>Undervisning</variabel><definition>Den totala kostnaden f&#246;r undervisning i tusentals kronor f&#246;r valt &#229;r. I statistiken ing&#229;r kostnader f&#246;r: alla l&#228;ro- och timplanebundna aktiviteter, fr&#228;mst l&#246;ner, l&#246;nekostnader f&#246;r l&#228;rare&#x2F;personal under tid f&#246;r kompetensutveckling samt kostnader f&#246;r ev. vikarier.</definition>
+<variabel>Totalt per elev</variabel><definition>Den totala kostnaden per elev f&#246;r valt &#229;r. I statistiken ing&#229;r kostnader f&#246;r: lokaler och inventarier, skolm&#229;ltider, elevv&#229;rd, undervisning, l&#228;rverktyg, utrustning och skolbibliotek, &#246;vriga kostnader, till exempel SYV-verksamhet, skolledning och administration samt grundskolans del av kommungemensam verksamhet s&#229;som kompetensutveckling av l&#228;rare och personal, elevassistenter och skolv&#228;rdar. I statistiken ing&#229;r inte kostnader f&#246;r skolskjutsar.
+</definition>
+<variabel>Undervisning per elev</variabel><definition>Kostnaden f&#246;r undervisning per elev f&#246;r valt &#229;r. I statistiken ing&#229;r kostnader f&#246;r: alla l&#228;ro- och timplanebundna aktiviteter, fr&#228;mst l&#246;ner, l&#246;nekostnader f&#246;r l&#228;rare&#x2F;personal under tid f&#246;r kompetensutveckling samt kostnader f&#246;r ev. vikarier. I statistiken ing&#229;r inte kostnader f&#246;r kompetensutveckling s&#229;som kurs- och seminarieavgifter.</definition>
+<variabel>Lokaler per elev</variabel><definition>Kostnaden f&#246;r lokaler och inventarier per elev f&#246;r valt &#229;r. I statistiken ing&#229;r kostnader f&#246;r lokaler och inventarier, inklusive underh&#229;ll, st&#228;dning och kostnader f&#246;r vaktm&#228;stare avseende fastighetssk&#246;tsel. I kostnaden kan interna hyror vara sj&#228;lvkostnadsber&#228;knade. I statistiken ing&#229;r inte kostnader f&#246;r &#246;vriga vaktm&#228;startj&#228;nster.</definition>
+</definitioner>
+</avslutning>
+</root>

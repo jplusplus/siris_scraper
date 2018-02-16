@@ -150,7 +150,7 @@ class SirisDataset(Dataset):
     @property
     def latest_period(self):
         """Get the latest timepoint available in dataset."""
-        return self.periods[-1]
+        return self.periods[0]
 
     def _get_period_id(self, period_label):
         if not hasattr(self, "_period_translattion"):

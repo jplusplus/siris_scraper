@@ -23,6 +23,7 @@ setup(
         "statscraper",
         "requests",
         "beautifulsoup4",
+        "lxml",
     ],
     test_suite="nose.collector",
     tests_require=["nose"],

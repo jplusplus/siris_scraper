@@ -14,13 +14,13 @@ class TestSirisQuerying(TestCase):
         dataset = self.scraper.items.get_by_label(u"Öppen förskola")\
                               .items.get_by_label("Kostnader per kommun")
         res = dataset.fetch({"period": "2016"})
-        assert len(res.list_of_dicts) == 290
+        assert len(res) == 290
 
         res = dataset.fetch({"period": ["2015", "2016"]})
-        assert len(res.list_of_dicts) == 290 * 2
+        assert len(res) == 290 * 2
 
     def test_query_grundskolan(self):
         dataset = self.scraper.items.get_by_label(u"Grundskolan")\
                               .items["177"]
         res = dataset.fetch()
-        assert len(res.list_of_dicts) > 0
+        assert len(res) > 0

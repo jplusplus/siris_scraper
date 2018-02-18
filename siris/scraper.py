@@ -6,13 +6,13 @@ from statscraper import (BaseScraper, Collection, DimensionValue,
                          Dataset, Dimension, Result)
 from siris.utils import get_data_from_xml, parse_period, parse_value, iter_options
 
-BASE_URL = u"http://siris.skolverket.se/"
+BASE_URL = u"http://siris.skolverket.se"
 
 
 class SirisScraper(BaseScraper):
 
     def _fetch_itemslist(self, current_item):
-        enrty_url = BASE_URL + "siris/ris.export_stat.form"
+        enrty_url = BASE_URL + "/siris/ris.export_stat.form"
         # Get start page
         if current_item.is_root:
             html = self._get_html(enrty_url)
@@ -161,7 +161,6 @@ class SirisDataset(Dataset):
     def rounds(self):
         """'Uttag'"""
         select_elem = self.soup.select_one("select[name='psOmgang']")
-        import pdb; pdb.set_trace()
         return [(x[0], x[1]) for x in iter_options(select_elem)]
 
     @property
@@ -180,9 +179,18 @@ class SirisDataset(Dataset):
         return self._period_translattion[period_label]
 
     @property
+    def html(self):
+        if not hasattr(self, "_html"):
+            url = "{}/siris/ris.export_stat.form?psVerksamhetsform={}&pnExport={}"\
+                  .format(BASE_URL, self.parent.id, self.id)
+            self._html = self.scraper._get_html(url)
+        return self._html
+
+
+    @property
     def soup(self):
         if not hasattr(self, "_soup"):
-            self._soup = BeautifulSoup(self.blob, 'html.parser')
+            self._soup = BeautifulSoup(self.html, 'html.parser')
         return self._soup
 
 

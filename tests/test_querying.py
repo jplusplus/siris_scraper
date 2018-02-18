@@ -21,6 +21,6 @@ class TestSirisQuerying(TestCase):
 
     def test_query_grundskolan(self):
         dataset = self.scraper.items.get_by_label(u"Grundskolan")\
-                              .items["101"]
+                              .items["177"]
         res = dataset.fetch()
         assert len(res.list_of_dicts) > 0

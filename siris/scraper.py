@@ -1,18 +1,18 @@
 # encoding: utf-8
 import requests
 from bs4 import BeautifulSoup
-
+import re
 from statscraper import (BaseScraper, Collection, DimensionValue,
                          Dataset, Dimension, Result)
 from siris.utils import get_data_from_xml, parse_period, parse_value, iter_options
 
-BASE_URL = u"http://siris.skolverket.se/siris/"
+BASE_URL = u"http://siris.skolverket.se/"
 
 
 class SirisScraper(BaseScraper):
 
     def _fetch_itemslist(self, current_item):
-        enrty_url = BASE_URL + "ris.export_stat.form"
+        enrty_url = BASE_URL + "siris/ris.export_stat.form"
         # Get start page
         if current_item.is_root:
             html = self._get_html(enrty_url)
@@ -81,13 +81,9 @@ class SirisScraper(BaseScraper):
         # Get the period id's needed to build url
         periods = [dataset._get_period_id(x) for x in periods]
 
-        query_url = BASE_URL + "ris.export_stat.export"
+
         for period in periods:
-            url = "{query_url}?pnExportID={dataset_id}&psVerksamhetsar={period}&psFormat=XML".format(
-                query_url=query_url,
-                dataset_id=dataset.id,
-                period=period,
-            )
+            url = dataset.get_xml_url(period)
             xml_data = self._get_html(url)
             for datapoint in get_data_from_xml(xml_data):
                 value = datapoint["value"]
@@ -140,6 +136,15 @@ class SirisScraper(BaseScraper):
 
 
 class SirisDataset(Dataset):
+
+    def get_xml_url(self, period):
+        """Get download link."""
+        url = BASE_URL + self.soup.select_one("a[href*=XML]")["href"]
+        url = re.sub("psVerksamhetsar=\d\d\d\d",
+                     "psVerksamhetsar={}".format(period),
+                     url)
+        return url
+
     @property
     def periods(self):
         """Get all available periods (years, semesters)."""
@@ -151,6 +156,22 @@ class SirisDataset(Dataset):
     def latest_period(self):
         """Get the latest timepoint available in dataset."""
         return self.periods[0]
+
+    @property
+    def rounds(self):
+        """'Uttag'"""
+        select_elem = self.soup.select_one("select[name='psOmgang']")
+        import pdb; pdb.set_trace()
+        return [(x[0], x[1]) for x in iter_options(select_elem)]
+
+    @property
+    def latest_round(self):
+        """'Uttag'"""
+        if self.rounds is not None:
+            return self.rounds[0]
+        else:
+            return None
+
 
     def _get_period_id(self, period_label):
         if not hasattr(self, "_period_translattion"):

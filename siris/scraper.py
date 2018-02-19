@@ -41,7 +41,6 @@ class SirisScraper(BaseScraper):
         pass
 
     def _fetch_dimensions(self, dataset):
-        yield Dimension("unit")
         yield Dimension("kommunkod")
         yield Dimension("kommun_namn")
         yield Dimension("huvudman")

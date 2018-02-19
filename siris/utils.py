@@ -67,7 +67,6 @@ def get_data_from_xml(xml_data):
         base_data = {
             "period": period,
             "periodicity": periodicity,
-            "unit": unit_tag.name,  # skola
         }
 
         # {'kommunkod': u'1440', 'huvudman': u'Kommunal', 'kommun_namn': u'Ale'}

@@ -6,7 +6,7 @@ def readme():
     with open("README.rst") as f:
         return f.read()
 
-version = "0.1.8"
+version = "0.1.9"
 
 setup(
     name="siris_scraper",

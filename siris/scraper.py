@@ -5,6 +5,7 @@ import re
 from statscraper import (BaseScraper, Collection, DimensionValue,
                          Dataset, Dimension, Result)
 from siris.utils import get_data_from_xml, parse_period, parse_value, iter_options
+from copy import deepcopy
 
 BASE_URL = u"http://siris.skolverket.se"
 
@@ -49,6 +50,7 @@ class SirisScraper(BaseScraper):
         yield Dimension("skol_kod")
         yield Dimension("period")
         yield Dimension("periodicity")
+        yield Dimension("uttag")
         yield Dimension("variable")
         yield Dimension("status")
 
@@ -56,23 +58,28 @@ class SirisScraper(BaseScraper):
     def _fetch_data(self, dataset, query):
         """Make the actual query.
 
-        The only queryable dimension is period.
+        The only queryable dimensions are period.
 
         >>> dataset.fetch({"period": "2016"})
         >>> dataset.fetch({"period": ["2015", "2016"]})
         >>> dataset.fetch({"period": "*"}) # Get all periods
         """
+        default_query = {
+            "period": dataset.latest_period[1],
+        }
         if query is None:
             query = {}
+
+        default_query.update(query)
+        query = default_query
         allowed_query_dims = ["period"]
 
         for dim in query.keys():
             if dim not in allowed_query_dims:
                 msg = "Querying on {} is not implemented yet".format(dim)
-                raise NotImplemented(msg)
-        if query is None or "period" not in query:
-            periods = [dataset.latest_period[1]]
-        elif query["period"] == "*":
+                raise NotImplementedError(msg)
+
+        if query["period"] == "*":
             periods = [x[1] for x in dataset.periods]
         else:
             if not isinstance(query["period"], list):
@@ -83,9 +90,14 @@ class SirisScraper(BaseScraper):
         # Get the period id's needed to build url
         periods = [dataset._get_period_id(x) for x in periods]
 
-
         for period in periods:
-            url = dataset.get_xml_url(period)
+            # Hack: For datasets with multiple uttag we get the latest
+            # This should rather be a part of query
+            if dataset.has_uttag:
+                uttag = dataset.get_latest_uttag(period)[0]
+            else:
+                uttag = None
+            url = dataset.get_xml_url(period, uttag)
             xml_data = self._get_html(url)
             for datapoint in get_data_from_xml(xml_data):
                 value = datapoint["value"]
@@ -139,13 +151,51 @@ class SirisScraper(BaseScraper):
 
 class SirisDataset(Dataset):
 
-    def get_xml_url(self, period):
-        """Get download link."""
-        url = BASE_URL + self.soup.select_one("a[href*=XML]")["href"]
-        url = re.sub("psVerksamhetsar=\d\d\d\d",
-                     "psVerksamhetsar={}".format(period),
-                     url)
+    @property
+    def url(self):
+        """Get base url of dataset.
+        """
+        if not hasattr(self, "_url"):
+            url = "{}/siris/ris.export_stat.form?psVerksamhetsform={}&pnExport={}"\
+                  .format(BASE_URL, self.parent.id, self.id)
+            # To get the full url with all necessary url params we first have
+            # ot make one query and parse all hidden inputs before we can
+            # construct the actual url
+            html = self.scraper._get_html(url)
+            soup = BeautifulSoup(html, 'html.parser')
+            for elem in soup.select("input[type='hidden']"):
+                url += "&{}={}".format(elem["name"], elem["value"])
+            self._url = url
+
+        return self._url
+
+    def get_url(self, period=None, uttag=1):
+        """Get the url for a spefic period and uttag.
+
+        TODO: Make this work with uttag labels as well (dates)
+
+        :param period: a period id (ie "2015")
+        :param uttag: an uttag id (typically 1|2)
+        """
+        url = deepcopy(self.url)
+
+        if period is not None:
+            url += "&psAr={}".format(period)
+        if uttag is not None:
+            url += "&psOmgang={}".format(uttag)
+
         return url
+
+    def get_xml_url(self, period, uttag=1):
+        """Get download link."""
+        url = self.get_url(period=period, uttag=uttag)
+        html = self.scraper._get_html(url)
+        soup = BeautifulSoup(html, 'html.parser')
+        xml_url = BASE_URL + soup.select_one("a[href*=XML]")["href"]
+        xml_url = re.sub("psVerksamhetsar=\d\d\d\d",
+                     "psVerksamhetsar={}".format(period),
+                     xml_url)
+        return xml_url
 
     @property
     def periods(self):
@@ -160,16 +210,35 @@ class SirisDataset(Dataset):
         return self.periods[0]
 
     @property
-    def rounds(self):
-        """'Uttag'"""
-        select_elem = self.soup.select_one("select[name='psOmgang']")
+    def has_uttag(self):
+        """Some dataset (like lärarebehörighet) my be published multiple
+        times per year (="uttag"). This property checks if this is such a
+        dataset.
+        """
+        return bool(self.soup.select_one("select[name='psOmgang']"))
+
+    def get_uttag(self, period):
+        """Get all available 'uttag' in a given period (year).
+        Uttag are relevant to "lärarbehörighet" that some years (ie 2014/15)
+        have been published multiple times
+
+        :param period: a period id
+        :returns: id and label of all uttag (if any) as tuples
+        """
+        url = self.get_url(period)
+        html = self.scraper._get_html(url)
+        soup = BeautifulSoup(html, 'html.parser')
+        select_elem = soup.select_one("select[name='psOmgang']")
         return [(x[0], x[1]) for x in iter_options(select_elem)]
 
-    @property
-    def latest_round(self):
-        """'Uttag'"""
-        if self.rounds is not None:
-            return self.rounds[0]
+    def get_latest_uttag(self, period):
+        """Get the uttag that appaear first in list. Uttag differ from year to year.
+
+        :returns: id and label of latest uttag (if any) as tuple
+        """
+        uttag = [x for x in self.get_uttag(period)]
+        if len(uttag) > 0:
+            return uttag[0]
         else:
             return None
 
@@ -177,15 +246,14 @@ class SirisDataset(Dataset):
     def _get_period_id(self, period_label):
         if not hasattr(self, "_period_translattion"):
             self._period_translattion = dict([(x[1], x[0]) for x in self.periods])
-
         return self._period_translattion[period_label]
+
+
 
     @property
     def html(self):
         if not hasattr(self, "_html"):
-            url = "{}/siris/ris.export_stat.form?psVerksamhetsform={}&pnExport={}"\
-                  .format(BASE_URL, self.parent.id, self.id)
-            self._html = self.scraper._get_html(url)
+            self._html = self.scraper._get_html(self.url)
         return self._html
 
 
@@ -194,8 +262,6 @@ class SirisDataset(Dataset):
         if not hasattr(self, "_soup"):
             self._soup = BeautifulSoup(self.html, 'html.parser')
         return self._soup
-
-
 
 
 class Verksamhetsform(Collection):

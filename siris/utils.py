@@ -33,8 +33,8 @@ def iter_options(select_html):
 
     :param select_html: string or soup tag
     """
-    # Regex for parsing value and label from option tags
-    option_reg_ex = 'value="([\d\w]+)">([\w\såäöÅÄÖ,//]+)\\n'
+    # Regex parsing value and label from option tags
+    option_reg_ex = 'value="([\d\w]+)">([\w\såäöÅÄÖ,///-]+)\\n'
     if isinstance(select_html, Tag):
         select_html = str(select_html)
 
@@ -54,6 +54,12 @@ def get_data_from_xml(xml_data):
     # <inledning>Valt år: 2016 Endast kommunal huvudman</inledning>
     # => (2016, år)
     period, periodicity = parse_period(root.select_one("inledning").text)
+    try:
+        uttag = root.select_one("leg_uttag").text
+    except AttributeError:
+        # All dataset do not have "uttag" property
+        uttag = None
+
     for unit_tag in root.select("skola"):
         # Example of tag:
         #<skola kommun_namn="Överkalix" kommunkod="2513" huvudman="Kommunal">
@@ -67,6 +73,7 @@ def get_data_from_xml(xml_data):
         base_data = {
             "period": period,
             "periodicity": periodicity,
+            "uttag": uttag,
         }
 
         # {'kommunkod': u'1440', 'huvudman': u'Kommunal', 'kommun_namn': u'Ale'}

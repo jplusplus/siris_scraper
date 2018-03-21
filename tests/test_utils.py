@@ -17,11 +17,17 @@ class TestUtils(TestCase):
         file_path = os.path.join(DATA_DIR, "exp_kostnader_kommun_fklass_2016.xml")
         with open(file_path) as f:
             content = f.read()
-            data = [x for x in parse_xml_dataset(content)]
+            data = [x for x in get_data_from_xml(content)]
             assert len(data) == 1740
 
+    def test_get_data_from_xml_with_uttag_dimension(self):
+        file_path = os.path.join(DATA_DIR, "exp_pers_amne_gr_skola_2014_sample.xml")
+        with open(file_path) as f:
+            content = f.read()
+            data = [x for x in get_data_from_xml(content)]
+            assert data[0]["uttag"] == "2015-08-17"
+
     def test_iter_options(self):
-        #TBD
         select_elem = """
         <select name="psAr" onchange="reload(this.form);">\n
         <option selected="" value="2016">2016/17\n
@@ -49,7 +55,11 @@ class TestUtils(TestCase):
         options = [x for x in iter_options(select_elem)]
         assert len(options) == 20
 
-        pass
+        select_elem = """
+            <select name="psOmgang" onchange="reload(this.form);" title="Uttag ur l\xe4rarlegitimationsregistret">\n<option value="2">2015-08-17\n<option selected="" value="1">2015-02-04\n</option></option></select>
+        """
+        options = [x for x in iter_options(select_elem)]
+        assert len(options) == 2
 
     def test_parse_value(self):
         assert parse_value(".") == (None, "missing or 0")

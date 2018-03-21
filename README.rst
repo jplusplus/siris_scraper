@@ -56,3 +56,8 @@ Set up:
 Run tests:
 
   make tests
+
+Todo
+------
+
+- The scraper does not handle "uttag" at the moment. Fetches latest by default.

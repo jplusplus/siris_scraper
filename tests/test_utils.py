@@ -27,6 +27,14 @@ class TestUtils(TestCase):
             data = [x for x in get_data_from_xml(content)]
             assert data[0]["uttag"] == "2015-08-17"
 
+    def test_get_data_from_xml_with_amne_dimension(self):
+        file_path = os.path.join(DATA_DIR, "exp_personal_alder_gr_kommun_2017_sample.xml")
+        with open(file_path) as f:
+            content = f.read()
+            data = [x for x in get_data_from_xml(content)]
+            assert "amne" in data[0]
+            assert data[0]["amne"] == u"Samtliga lärare"
+
     def test_iter_options(self):
         select_elem = """
         <select name="psAr" onchange="reload(this.form);">\n

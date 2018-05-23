@@ -48,6 +48,7 @@ class SirisScraper(BaseScraper):
         yield Dimension("huvudman_name")
         yield Dimension("skolnamn")
         yield Dimension("skol_kod")
+        yield Dimension("amne")
         yield Dimension("period")
         yield Dimension("periodicity")
         yield Dimension("uttag")

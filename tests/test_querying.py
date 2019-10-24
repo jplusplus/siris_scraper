@@ -24,3 +24,16 @@ class TestSirisQuerying(TestCase):
                               .items["177"]
         res = dataset.fetch()
         assert len(res) > 0
+
+    def test_query_at_different_levels(self):
+        collection = self.scraper.items.get_by_label(u"Gymnasieskolan")
+
+        res = collection.items["156"].fetch()
+        assert res[0]["niva"] == "huvudman"
+
+        res = collection.items["82"].fetch()
+        assert res[0]["niva"] == "kommun"
+
+        res = collection.items["266"].fetch()
+        assert res[0]["niva"] == u"län"
+        assert res[0]["lan_namn"] == u"Blekinge län"

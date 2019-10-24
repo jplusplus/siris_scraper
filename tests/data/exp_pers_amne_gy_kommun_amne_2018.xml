@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<root>
+<rubrik>Gymnasieskolan - Personalstatistik med l&#228;rarlegitimation och beh&#246;righet per &#228;mne</rubrik>
+<leg_uttag>2019-02-01</leg_uttag>
+<inledning>Valt l&#228;s&#229;r: 2018&#x2F;19
+Valt uttag: 2019-02-01
+</inledning>
+<kommun kommun_namn="Alings&#229;s" kommunkod="1489" lan_namn="V&#228;stra G&#246;talands l&#228;n" lankod="14" huvudman="Samtliga" amne="Bild">
+<helttj_larare>0,4</helttj_larare>
+<helttj_larare_leg>0,4</helttj_larare_leg>
+<and_helttj_larare_leg>100,0</and_helttj_larare_leg>
+<ant_larare>1</ant_larare>
+<ant_larare_pedex>1</ant_larare_pedex>
+<and_larare_pedex>100,0</and_larare_pedex>
+<ant_behoriga>1</ant_behoriga>
+<and_behoriga>100,0</and_behoriga>
+</kommun>
+<kommun kommun_namn="Alings&#229;s" kommunkod="1489" lan_namn="V&#228;stra G&#246;talands l&#228;n" lankod="14" huvudman="Kommunal" amne="Bild">
+<helttj_larare>0,4</helttj_larare>
+<helttj_larare_leg>0,4</helttj_larare_leg>
+<and_helttj_larare_leg>100,0</and_helttj_larare_leg>
+<ant_larare>1</ant_larare>
+<ant_larare_pedex>1</ant_larare_pedex>
+<and_larare_pedex>100,0</and_larare_pedex>
+<ant_behoriga>1</ant_behoriga>
+<and_behoriga>100,0</and_behoriga>
+</kommun>
+<kommun kommun_namn="Arboga" kommunkod="1984" lan_namn="V&#228;stmanlands l&#228;n" lankod="19" huvudman="Samtliga" amne="Bild">
+<helttj_larare>0,3</helttj_larare>
+<helttj_larare_leg>0,0</helttj_larare_leg>
+<and_helttj_larare_leg>0,0</and_helttj_larare_leg>
+<ant_larare>1</ant_larare>
+<ant_larare_pedex>0</ant_larare_pedex>
+<and_larare_pedex>0,0</and_larare_pedex>
+<ant_behoriga>0</ant_behoriga>
+<and_behoriga>0,0</and_behoriga>
+</kommun>
+
+<avslutning>
+<del1>Rapportbeskrivning och definitioner etc.
+ </del1>
+<definitioner>
+<variabel>Heltidstj&#228;nster, Totalt antal</variabel><definition>Denna statistikuppgift visar det totala antalet l&#228;rare per &#228;mne uttryckt i antal heltidstj&#228;nster (&#229;rsarbetskrafter) och som var anst&#228;llda.</definition>
+<variabel>Antal med l&#228;rarlegitimation och beh&#246;righet i &#228;mnet</variabel><definition>Denna statistikuppgift visar antal och andel (%) l&#228;rare med l&#228;rarlegitimation med beh&#246;righet i respektive &#228;mne uttryckt i antal heltidstj&#228;nster (&#229;rsarbetskrafter) och som var anst&#228;llda.</definition>
+<variabel>Antal tj&#228;nstg&#246;rande l&#228;rare, Totalt antal</variabel><definition>Denna statistikuppgift visar det totala antalet l&#228;rare per &#228;mne som var anst&#228;llda.</definition>
+<variabel>Antal med pedagogisk h&#246;gskoleexamen</variabel><definition>Denna statistikuppgift visar antal och andel (%) l&#228;rare med pedagogisk h&#246;gskoleexamen i respektive &#228;mne som var anst&#228;llda.</definition>
+<variabel>Antal med l&#228;rarlegitimation och beh&#246;righet i &#228;mnet</variabel><definition>Denna statistikuppgift visar antal och andel (%) l&#228;rare med l&#228;rarlegitimation med beh&#246;righet i respektive &#228;mne som var anst&#228;llda.</definition>
+</definitioner>
+</avslutning>
+</root>

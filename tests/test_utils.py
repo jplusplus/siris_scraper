@@ -19,6 +19,7 @@ class TestUtils(TestCase):
             content = f.read()
             data = [x for x in get_data_from_xml(content)]
             assert len(data) == 1740
+            assert data[0]["niva"] == "skola"
 
     def test_get_data_from_xml_with_uttag_dimension(self):
         file_path = os.path.join(DATA_DIR, "exp_pers_amne_gr_skola_2014_sample.xml")
@@ -34,6 +35,13 @@ class TestUtils(TestCase):
             data = [x for x in get_data_from_xml(content)]
             assert "amne" in data[0]
             assert data[0]["amne"] == u"Samtliga lärare"
+
+    def test_get_data_at_different_levels(self):
+        file_path = os.path.join(DATA_DIR, "exp_pers_amne_gy_kommun_amne_2018.xml")
+        with open(file_path) as f:
+            content = f.read()
+            data = [x for x in get_data_from_xml(content)]
+            assert data[0]["niva"] == "kommun"
 
     def test_iter_options(self):
         select_elem = """

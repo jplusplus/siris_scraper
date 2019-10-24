@@ -3,6 +3,7 @@ import re
 from copy import deepcopy
 from bs4 import BeautifulSoup
 from bs4.element import Tag
+from siris import allowed_values
 
 def parse_period(period_str):
     """
@@ -60,7 +61,7 @@ def get_data_from_xml(xml_data):
         # All dataset do not have "uttag" property
         uttag = None
 
-    for unit_tag in root.select("skola"):
+    for unit_tag in root.select(",".join(allowed_values.NIVA)):
         # Example of tag:
         #<skola kommun_namn="Överkalix" kommunkod="2513" huvudman="Kommunal">
         #    <antal_elever>20</antal_elever>
@@ -71,6 +72,7 @@ def get_data_from_xml(xml_data):
         #    <lokaler_elev>11 200</lokaler_elev>
         #</skola>
         base_data = {
+            "niva": unit_tag.name,
             "period": period,
             "periodicity": periodicity,
             "uttag": uttag,

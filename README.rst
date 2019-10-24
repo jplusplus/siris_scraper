@@ -57,6 +57,13 @@ Run tests:
 
   make tests
 
+Deploy
+------
+
+To pypi:
+
+  python3 deploy_to_pypi.py
+
 Todo
 ----
 

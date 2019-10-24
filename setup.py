@@ -1,12 +1,11 @@
 # encoding: utf-8
 from setuptools import setup
+from version import version
 
 def readme():
     """Import README for use as long_description."""
     with open("README.rst") as f:
         return f.read()
-
-version = "0.2.0"
 
 setup(
     name="siris_scraper",

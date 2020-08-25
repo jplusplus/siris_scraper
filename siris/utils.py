@@ -35,7 +35,7 @@ def iter_options(select_html):
     :param select_html: string or soup tag
     """
     # Regex parsing value and label from option tags
-    option_reg_ex = 'value="([\d\w]+)">([\w\såäöÅÄÖ,///-]+)\\n'
+    option_reg_ex = 'value="([\d\w]+)">([^\r\n]+)\\n'
     if isinstance(select_html, Tag):
         select_html = str(select_html)
 

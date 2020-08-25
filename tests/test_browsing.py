@@ -14,7 +14,7 @@ class TestSirisScraper(TestCase):
     def test_verksamhetsformer(self):
         # This test depends on the content of the site
         collections = self.scraper.items
-        assert len(collections) == 16
+        assert len(collections) > 0
         for collection in collections:
             assert isinstance(collection, Verksamhetsform)
 
@@ -27,7 +27,7 @@ class TestSirisScraper(TestCase):
         collections = self.scraper.items
         verksamhet = collections.get_by_label(u"Förskoleklass")
         datasets = verksamhet.items
-        assert len(datasets) == 5
+        assert len(datasets) > 0
 
     def test_periods_property(self):
         collections = self.scraper.items

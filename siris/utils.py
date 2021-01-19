@@ -61,7 +61,7 @@ def get_data_from_xml(xml_data):
         # All dataset do not have "uttag" property
         uttag = None
 
-    for unit_tag in root.select(",".join(allowed_values.NIVA)):
+    for unit_tag in root.find_all(allowed_values.NIVA):
         # Example of tag:
         #<skola kommun_namn="Överkalix" kommunkod="2513" huvudman="Kommunal">
         #    <antal_elever>20</antal_elever>

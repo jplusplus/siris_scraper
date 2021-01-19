@@ -21,7 +21,8 @@ class SirisScraper(BaseScraper):
             select_elem = soup.select_one("select[name='psVerksamhetsform']")
             # <option selected="" value="15">Fritidshem'
             for value, label in iter_options(select_elem):
-                yield Verksamhetsform(value, label.decode("utf-8"))
+
+                yield Verksamhetsform(value, label)
 
         elif isinstance(current_item, Verksamhetsform):
             url = "{}?psVerksamhetsform={}".format(enrty_url, current_item.id)
@@ -29,7 +30,7 @@ class SirisScraper(BaseScraper):
             soup = BeautifulSoup(html, 'html.parser')
             select_elem = soup.select_one("select[name='pnExport']")
             for value, label in iter_options(select_elem):
-                yield SirisDataset(value, label.decode("utf-8"), blob=html)
+                yield SirisDataset(value, label, blob=html)
 
 
         # Get links to datasets
@@ -122,8 +123,8 @@ class SirisScraper(BaseScraper):
                 self.log.info("(from cache)")
 
         r.raise_for_status()
-
-        return r.content
+        
+        return r.text
 
     def _post_html(self, url, payload):
         self.log.info(u"/POST {} with {}".format(url, payload))
@@ -285,19 +286,19 @@ class PrintLogger():
     """
 
     def log(self, msg, *args, **kwargs):
-        print msg
+        print(msg)
 
     def debug(self, msg, *args, **kwargs):
-        print msg
+        print(msg)
 
     def info(self, msg, *args, **kwargs):
-        print msg
+        print(msg)
 
     def warning(self, msg, *args, **kwargs):
-        print msg
+        print(msg)
 
     def error(self, msg, *args, **kwargs):
-        print msg
+        print(msg)
 
     def critical(self, msg, *args, **kwargs):
-        print msg
+        print(msg)
